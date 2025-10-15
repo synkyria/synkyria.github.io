@@ -9,9 +9,9 @@ The Guardian for AI™ translates Synkyria’s rhythmic theory into a practical 
 - Reduces GPU-hour cost by 40–60%
 
 ## Technical Docs
-- 📄 [CTO Guide](../../Guardian_for_AI_CTO_Translation_Guide.md)  
-- 📄 [CEO Value Brief](../../Guardian_for_AI_CEO_Value_Brief.md)  
-- 📊 [Unified Executive Deck (PDF)](../../slides/Guardian_for_AI_Unified_Executive_Deck.pdf)
+- 📄 [CTO Guide](Guardian_for_AI_CTO_Translation_Guide.md)  
+- 📄 [CEO Value Brief](Guardian_for_AI_CEO_Value_Brief.md)  
+- 📊 [Unified Executive Deck (PDF)](Guardian_for_AI_Unified_Executive_Deck.pdf)
 
 ## Core Indices (HTML table for clean rendering)
 <table>
