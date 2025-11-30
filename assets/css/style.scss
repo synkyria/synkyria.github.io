@@ -34,3 +34,21 @@ body {
   color: #ffffff;
   text-decoration: none;
 }
+
+/* --- Body vs headings contrast --- */
+
+body {
+  background-color: #ffffff;
+  color: #333333;   /* λίγο πιο ανοιχτό γκρι για το κείμενο */
+}
+
+/* Επικεφαλίδες λίγο πιο σκούρες από το σώμα */
+h1, h2, h3, h4, h5, h6 {
+  color: #111111;
+}
+
+/* Αν θέλεις ο τίτλος πάνω να είναι κι αυτός πιο έντονος */
+.project-name,
+.project-tagline {
+  color: #111111;
+}
