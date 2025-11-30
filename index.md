@@ -46,10 +46,11 @@ The **theoretical backbone** reorganises classical tools (first-passage, spectra
 Synkyria is not only a mathematical framework. It is also a **phenomenological, therapeutic and pedagogical project**:
 
 - **Before Any Form** and the **Tropic Auras** (Aura 000, 007, …) translate holding, refusal and morphogenesis into lived experience.  
-- [**Euryperos – The Field Without Form**](euryperos.md) explores the unformed field and suspension as full form.  
+- [**Euryperos – The Field Without Form**](euryperos.md) explores the unformed field and suspension as full form. 
 - The **Tropic Manifesto** states explicitly that holding comes before optimisation, and that refusal is a structural right in therapy, politics and AI alike.
 
-👉 See [Articles & Auras](articles/) and the [Manifesto](manifesto.md) for the philosophical and pedagogical layer.
+👉 See [Articles & Auras](articles/), the [Manifesto](manifesto.md) for the philosophical and pedagogical layer and the [Tropic Lexicon](lexicon.md) for key concepts and names in Synkyria.
+
 
 ---
 
