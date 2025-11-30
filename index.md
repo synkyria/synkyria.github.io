@@ -9,30 +9,34 @@ Instead of treating stability as a property of equilibria, Synkyria starts from 
 
 > **“For how long can this field hold, under what hazards, at what cost, and with what right to refuse?”**
 
-From this question, a multi-layered architecture emerges:
+From this question, a layered architecture emerges:
 
-- **Mathematical layer.**  
-  A finite-horizon holding index \(H_{\mathrm{rig}}\), hazard landscapes, and Synkyrian stability results that reorganise classical tools (first-passage, spectral gaps, variational principles) around viability over a fixed horizon rather than asymptotic equilibrium.
+- **Stability layer.**  
+  A finite-horizon holding index \(H_{\mathrm{rig}}\) and log-hazard tools that ask not “is the equilibrium stable?” but “how long can this state be held under real hazards?”.
 
-- **Informational layer.**  
-  Tropic Information Theory treats information as weight and burden, not just as “bits”. Every measurement or message consumes limited capacity. The right to ignore, discard, or delay information becomes a structural part of any finite holding field.
+- **Information layer.**  
+  Information is treated as weight and burden, not as a free good. Every message, measurement, and model update consumes finite capacity. The right to refuse is structural.
 
-- **Geometric layer.**  
-  Synkyrian Geometric Morphogenesis reads form as *assimilated history*: whatever has survived hazards, costs, and filters long enough to become structure. Local coordinates such as crisis resonance, suspended core persistence, and transformation windows describe how systems cross thresholds instead of sitting at rest.
+- **Morphogenesis layer.**  
+  Forms are read as assimilated history: whatever has survived hazard and cost long enough to become structure. Crisis resonance, suspended cores, and transformation windows describe how systems cross thresholds.
 
 - **Network layer.**  
-  Synkyrian Networked Fields extend these ideas from single fields to graphs of interacting kernels: tissues, ecosystems, socio-technical infrastructures, AI model pipelines. Holding becomes a network property shaped by bottlenecks, shared capacities, and explicit refusal of further load.
+  Synkyrian Networked Fields extend these ideas to graphs of interacting kernels: tissues, ecosystems, socio-technical infrastructures, AI pipelines. Holding becomes a network property shaped by bottlenecks, shared capacities, and explicit refusal.
 
 - **Ethical & phenomenological layer.**  
-  The same language of holding and refusal is used to speak about therapy, pedagogy, politics, and AI governance: how to hold another person or a community without collapse or exploitation, and how to design systems that respect finite capacity instead of maximising extraction.
+  The Tropic Manifesto states that holding comes before optimisation, and that refusal is a structural right. Therapy, pedagogy, politics, and AI governance are all read through this lens.
 
-Technically, Synkyria underpins a family of prototypes — the **Tropic Companion**, the **Guardian for AI™**, and training monitors — which translate this theory into operational indices and software tools. These engines estimate holding capacity, detect overload, and implement refusal as a first-class decision inside machine-learning pipelines and conversational AI.
+Technically, Synkyria underpins a family of prototypes — the **Tropic Companion**, the **Guardian for AI™**, and training monitors — which translate this theory into operational indices and software tools. These engines estimate holding capacity, detect overload, and implement refusal as a first-class decision.
 
 ---
 
 ## ✦ Explore
 
-- [Theory](theory/) — Core volumes and Tropic foundations  
+- [Programme](programme.md) — Purpose, vision, and axes of development  
+- [Story](story.md) — How Synkyria emerged through cohabitation with AI  
+- [Manifesto](manifesto.md) — The ethical core of the project  
+
+- [Theory](theory/) — Synkyrian Stability, Tropic Information, Morphogenesis, Networked Fields  
 - [Applications](applications/) — Engines built on Synkyria  
   - [Guardian for AI](applications/guardian-for-ai/)  
   - [Tropic Companion](applications/tropic-companion/)  
@@ -40,4 +44,4 @@ Technically, Synkyria underpins a family of prototypes — the **Tropic Companio
 
 ---
 
-© 2025 Synkyria Project · by P. Kalomoirakis
+© 2025 Synkyria Project · Panagiotis Kalomoirakis
