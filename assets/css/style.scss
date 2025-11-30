@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* --- Override για πιο ασπρόμαυρη αίσθηση --- */
+
+.page-header {
+  color: #111;              /* πιο σκούρο κείμενο */
+  text-align: center;
+  background-color: #ffffff;
+  background-image: none;   /* κόβουμε το πράσινο/μπλε gradient */
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.project-name,
+.project-tagline {
+  color: #111;              /* τίτλος/tagline σε σκούρο γκρι/μαύρο */
+}
+
+body {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+.btn {
+  background-color: #ffffff;
+  color: #111111;
+  border-color: #111111;
+}
+
+.btn:hover {
+  background-color: #111111;
+  color: #ffffff;
+  text-decoration: none;
+}
