@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Architecture Map
 permalink: /architecture/
 ---
+
 
 ## The Synkyria Architecture (at a glance)
 
