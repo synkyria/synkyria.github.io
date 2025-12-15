@@ -168,9 +168,11 @@ Synkyria is not meant to be consumed linearly.
 
 It is meant to be **entered**, **tested**, and **combined**.
 
-If you are unsure where to go next, return to:
-- the **Architecture Map**
-- or the **Library**
+If you are unsure where to go next:
+
+- Start from the **[Architecture Map](/theory/)** to understand how the system fits together.
+- Or browse the **[Library](/library/)** to explore individual papers and notes.
+
 
 and follow the connections.
 
