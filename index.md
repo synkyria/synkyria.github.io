@@ -5,6 +5,8 @@
 
 **Synkyria** is a multi-layer field theory of *holding* — a way of seeing humans, organisations, technical systems, and ecosystems as finite fields that can only carry so much load, risk, and information before they break or transform.
 
+- **[How to Read Synkyria](/how-to-read/)** — start here if you are new
+
 A field can be:
 
 - a nervous system in therapy,  
