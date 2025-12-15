@@ -6,6 +6,10 @@ title: Library
 
 A complete ledger of the Synkyria site corpus (complete up to **2025-12-15**).
 
+> New here?  
+> Start with the **[Architecture Map](/architecture/)** to understand how the corpus is structured.
+
+
 | ID | Type | Status | Work | PDF | Site |
 |---|---|---|---|---|---|
 | P0 | Paper | Zenodo (frozen) | [Synkyrian Stability as an Architectural Framework](/papers/stability/) | [PDF](/assets/pdfs/Synkyrian_Stability_as_an_Architectural_Framework.pdf) | `/papers/stability/` |
