@@ -61,6 +61,14 @@ A complete ledger of the Synkyria site corpus (complete up to **2025-12-15**).
 - **Network governance:** P5 + N40 + P6 ⇒ C1 (diagnostics + policy regimes ⇒ charter clauses).
 - **Companion implementation track:** S20 + K30 + R40 + K60 (contract + hooks + demo + architecture).
 
+---
+
+If you are unsure where to go next:
+
+- Start from the **[Architecture Map](/theory/)** to understand how the system fits together.
+- Or browse the **[Library](/library/)** to explore individual papers and notes.
+
+---
 
 
 > Note: PDFs are currently hosted under `/assets/pdfs/`. If you later switch to Zenodo DOIs, we can keep the pages stable and just swap the PDF targets.
