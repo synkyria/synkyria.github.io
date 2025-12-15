@@ -19,6 +19,7 @@ In all cases, the central questions are:
 
 From this, Synkyria unfolds along three intertwined strands:
 
+
 ---
 
 ## 1 · Theory
@@ -79,4 +80,8 @@ This site is an invitation to enter that field —
 from whichever side you come: mathematics, philosophy, therapy, ecology, or AI engineering.
 
 
-- [Library](./library/)
+## Explore the Architecture
+
+- **[Architecture Map](/architecture/)** — how the Synkyria corpus fits together
+- **[Library](/library/)** — complete catalogue of papers, notes, and technical packs
+
