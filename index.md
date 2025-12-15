@@ -77,3 +77,6 @@ conversational models treated not as black-box tools but as rhythmic partners th
 
 This site is an invitation to enter that field —  
 from whichever side you come: mathematics, philosophy, therapy, ecology, or AI engineering.
+
+
+- [Library](./library/)

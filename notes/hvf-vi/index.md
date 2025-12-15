@@ -1,0 +1,20 @@
+---
+title: HVF-VI: Thermodynamic–Stochastic Bridge (1D model)
+---
+
+# HVF-VI: Thermodynamic–Stochastic Bridge (1D model)
+
+**ID:** N15  
+**Type:** Note  
+**Status:** Primary
+
+## PDF
+- [Open PDF](/assets/pdfs/VI__A_Thermodynamic__Stochastic_Bridge_in_a_One_Dimensional_Entropy_Model.pdf)
+
+## Role in the architecture
+Bridge note for 1D entropy model.
+
+## Suggested combinations
+- Use as *supporting lemma bank* for **P0** (Stability) and **P5** (Networked Fields).
+
+↩︎ Back to the [Library](/library/).

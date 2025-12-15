@@ -58,3 +58,10 @@ A tool that merely increases extraction, even if it uses Synkyrian indices, is n
 By making this ethical core explicit, Synkyria positions itself not just as another technical framework, but as a long-term commitment to designing systems that honour finite capacity, legitimate refusal, and the slow emergence of form.
 
 *(Full Tropic Manifesto PDF will be linked here when public.)*
+
+
+---
+
+## PDF
+
+- [Open the manifesto PDF](/assets/pdfs/Manifesto.pdf)

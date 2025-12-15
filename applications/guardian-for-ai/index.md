@@ -11,7 +11,7 @@ The Guardian for AI™ translates Synkyria’s rhythmic theory into a practical 
 ## Technical Docs
 - 📄 [CTO Guide](Guardian_for_AI_CTO_Translation_Guide.md)  
 - 📄 [CEO Value Brief](Guardian_for_AI_CEO_Value_Brief.md)  
-- 📊 [Unified Executive Deck (PDF)](Guardian_for_AI_Unified_Executive_Deck.pdf)
+- 📊 Unified Executive Deck (PDF) — *coming soon*
 
 ## Core Indices (HTML table for clean rendering)
 <table>
@@ -22,3 +22,6 @@ The Guardian for AI™ translates Synkyria’s rhythmic theory into a practical 
 <tr><td>Dτ</td><td>Delay-Structure</td><td>Structured modulation of LR</td></tr>
 <tr><td>ρ̂</td><td>Congestion</td><td>System load / stress</td></tr>
 </table>
+
+
+See the full document set in the [Library](/library/).
