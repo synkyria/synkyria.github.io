@@ -1,11 +1,9 @@
 ---
 title: How to Read Synkyria
-permalink: /how-to-read/
+subtitle: Orientation guide for first-time readers
 ---
 
-## How to Read Synkyria (for first-time readers)
-
-Synkyria is not a single paper or a closed theory.  
+Synkyria is not a single paper or a closed theory.
 It is a **framework for reasoning about viability under constraint**.
 
 If you are new, do **not** try to read everything.
