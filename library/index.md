@@ -2,7 +2,6 @@
 title: Library
 ---
 
-# Library
 
 A complete ledger of the Synkyria site corpus (complete up to **2025-12-15**).
 
