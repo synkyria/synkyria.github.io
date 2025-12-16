@@ -2,8 +2,6 @@
 title: Tropic Manifesto
 ---
 
-# Tropic Manifesto
-
 **ID:** M0  
 **Type:** Manifesto  
 **Status:** Primary
