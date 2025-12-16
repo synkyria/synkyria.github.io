@@ -1,12 +1,36 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }} · Synkyria</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
 
-{% include nav.html %}
+  <body>
 
-<header class="page-header">
-  <h1>{{ page.title }}</h1>
-</header>
+    {% include nav.html %}
 
-{{ content }}
+    {% if page.title %}
+    <header class="page-header">
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="page-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
+    {% endif %}
+
+    <main class="page-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <hr />
+      ⌂ <a href="{{ '/' | relative_url }}">Home</a>
+      · 📚 <a href="{{ '/library/' | relative_url }}">Library</a>
+      · 📖 <a href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
+    </footer>
+
+  </body>
+</html>
 
