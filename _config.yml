@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Synkyria Project
 description: A Living Field of Rhythm, Form and Intelligence.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
