@@ -10,7 +10,6 @@ A complete ledger of the Synkyria site corpus (complete up to **2025-12-15**).
 > New reader?  
 > Start with **[How to Read Synkyria](/how-to-read/)**.
 
-> Check the **[Architecture Map](/architecture/)** to understand how the corpus is structured.
 
 
 | ID | Type | Status | Work | PDF | Site |
@@ -71,5 +70,5 @@ If you are unsure where to go next:
 ---
 
 
-> Note: PDFs are currently hosted under `/assets/pdfs/`. If you later switch to Zenodo DOIs, we can keep the pages stable and just swap the PDF targets.
+
 
