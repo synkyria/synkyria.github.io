@@ -2,8 +2,6 @@
 title: Holding Spec v1.1 Figures/Template
 ---
 
-# Holding Spec v1.1 Figures/Template
-
 **ID:** S21  
 **Type:** Spec asset  
 **Status:** Alias (assets)

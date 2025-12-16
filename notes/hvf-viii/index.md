@@ -2,8 +2,6 @@
 title: HVF-VIII: Thermodynamic Duality and Viability
 ---
 
-# HVF-VIII: Thermodynamic Duality and Viability
-
 **ID:** N17  
 **Type:** Note  
 **Status:** Primary

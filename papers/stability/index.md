@@ -2,8 +2,6 @@
 title: Synkyrian Stability as an Architectural Framework
 ---
 
-# Synkyrian Stability as an Architectural Framework
-
 **ID:** P0  
 **Type:** Paper  
 **Status:** Zenodo (frozen)

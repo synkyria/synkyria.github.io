@@ -2,8 +2,6 @@
 title: Holding as a Viability Functional IV
 ---
 
-# Holding as a Viability Functional IV
-
 **ID:** N13  
 **Type:** Note  
 **Status:** Primary

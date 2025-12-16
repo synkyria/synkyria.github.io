@@ -2,8 +2,6 @@
 title: Invariant-Preserving Morphogenetic Filtering
 ---
 
-# Invariant-Preserving Morphogenetic Filtering
-
 **ID:** P4  
 **Type:** Paper  
 **Status:** Preprint (primary)

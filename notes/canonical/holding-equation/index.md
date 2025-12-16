@@ -2,8 +2,6 @@
 title: The Holding Equation
 ---
 
-# The Holding Equation
-
 **ID:** N01  
 **Type:** Note  
 **Status:** Primary

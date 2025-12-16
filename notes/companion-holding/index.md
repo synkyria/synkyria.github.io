@@ -2,8 +2,6 @@
 title: The Synkyrian Companion as Holding System
 ---
 
-# The Synkyrian Companion as Holding System
-
 **ID:** K60  
 **Type:** Note  
 **Status:** Primary

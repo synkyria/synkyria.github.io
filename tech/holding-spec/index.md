@@ -2,8 +2,6 @@
 title: Holding Canonical Spec v1
 ---
 
-# Holding Canonical Spec v1
-
 **ID:** S20  
 **Type:** Spec  
 **Status:** Primary

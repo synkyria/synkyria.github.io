@@ -2,8 +2,6 @@
 title: Holding as a Viability Functional (Open)
 ---
 
-# Holding as a Viability Functional (Open)
-
 **ID:** N10  
 **Type:** Note  
 **Status:** Primary

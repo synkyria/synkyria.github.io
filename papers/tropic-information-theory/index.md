@@ -2,8 +2,6 @@
 title: Tropic Information Theory
 ---
 
-# Tropic Information Theory
-
 **ID:** P1  
 **Type:** Paper  
 **Status:** Preprint (primary)

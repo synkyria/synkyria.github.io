@@ -2,8 +2,6 @@
 title: Holding as a Viability Functional III
 ---
 
-# Holding as a Viability Functional III
-
 **ID:** N12  
 **Type:** Note  
 **Status:** Primary

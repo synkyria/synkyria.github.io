@@ -2,8 +2,6 @@
 title: HVF-X: Variational Principle for Flow under Viability Constraints
 ---
 
-# HVF-X: Variational Principle for Flow under Viability Constraints
-
 **ID:** N19  
 **Type:** Note  
 **Status:** Primary

@@ -2,8 +2,6 @@
 title: MEPP / ΜΕΡΡ Extension
 ---
 
-# MEPP / ΜΕΡΡ Extension
-
 **ID:** N04  
 **Type:** Note  
 **Status:** Primary

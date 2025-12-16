@@ -2,8 +2,6 @@
 title: Bridge 3: Network Composition (aux)
 ---
 
-# Bridge 3: Network Composition (aux)
-
 **ID:** N31  
 **Type:** Note  
 **Status:** Alias (supporting)

@@ -2,8 +2,6 @@
 title: CFE Companion Hooks v0.1 (deprecated)
 ---
 
-# CFE Companion Hooks v0.1 (deprecated)
-
 **ID:** K31  
 **Type:** Pack  
 **Status:** Deprecated

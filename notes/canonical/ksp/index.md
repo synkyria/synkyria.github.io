@@ -2,8 +2,6 @@
 title: The Kernel Stability Principle (KSP)
 ---
 
-# The Kernel Stability Principle (KSP)
-
 **ID:** N02  
 **Type:** Note  
 **Status:** Primary

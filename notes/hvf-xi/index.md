@@ -2,8 +2,6 @@
 title: HVF-XI: Cheeger-type Bounds for Synkyrian Network Holding
 ---
 
-# HVF-XI: Cheeger-type Bounds for Synkyrian Network Holding
-
 **ID:** N20  
 **Type:** Note  
 **Status:** Primary

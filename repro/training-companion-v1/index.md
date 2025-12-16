@@ -2,8 +2,6 @@
 title: Synkyrian Training Companion v1 (Zenodo artifact)
 ---
 
-# Synkyrian Training Companion v1 (Zenodo artifact)
-
 **ID:** R40  
 **Type:** Repro  
 **Status:** Zenodo (primary)

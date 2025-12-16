@@ -2,8 +2,6 @@
 title: Synkyrian Network Charter
 ---
 
-# Synkyrian Network Charter
-
 **ID:** C1  
 **Type:** Charter  
 **Status:** Primary

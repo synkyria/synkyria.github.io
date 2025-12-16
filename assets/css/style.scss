@@ -1,3 +1,6 @@
+---
+---
+
 .page-header {
   margin: 3rem 0 2rem 0;
   text-align: center;
@@ -17,4 +20,22 @@
   max-width: 860px;
   margin: auto;
 }
+
+
+body { margin:0; padding:0 1.25rem; line-height:1.6; color:#111; background:#fff; }
+.page-content { max-width: 920px; margin: 0 auto; padding-bottom: 3rem; }
+
+.site-nav { max-width: 920px; margin: 1.25rem auto 2rem auto; font-size: 0.95rem; }
+.site-nav a { text-decoration:none; border-bottom:1px solid rgba(0,0,0,.25); color:inherit; }
+.site-nav a:hover { border-bottom-color: rgba(0,0,0,.65); }
+
+.page-header { margin: 2.75rem 0 2rem 0; }
+.page-header h1 { font-size: 2.4rem; line-height: 1.15; margin: 0 0 .75rem 0; }
+.page-subtitle { font-size: 1.05rem; color:#555; margin:0; }
+
+table { width:100%; border-collapse:collapse; margin: 1rem 0 1.5rem 0; }
+th, td { padding: .45rem .6rem; border-bottom:1px solid #e8e8e8; vertical-align:top; text-align:left; }
+
+.site-footer { max-width: 920px; margin: 3rem auto 1.5rem auto; padding-top: 1.5rem; border-top:1px solid #e6e6e6; color:#666; font-size:.95rem; }
+.site-footer .site-nav { margin: .75rem auto 0 auto; }
 

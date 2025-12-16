@@ -2,8 +2,6 @@
 title: Synkyrian Networked Fields
 ---
 
-# Synkyrian Networked Fields
-
 **ID:** P5  
 **Type:** Paper  
 **Status:** Preprint (primary)

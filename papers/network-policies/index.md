@@ -2,8 +2,6 @@
 title: Synkyrian Network Policies
 ---
 
-# Synkyrian Network Policies
-
 **ID:** P6  
 **Type:** Paper  
 **Status:** Preprint (primary)

@@ -2,8 +2,6 @@
 title: From Variability to Holding (HE·KSP·MEPP)
 ---
 
-# From Variability to Holding (HE·KSP·MEPP)
-
 **ID:** N03  
 **Type:** Note  
 **Status:** Primary

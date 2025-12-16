@@ -2,8 +2,6 @@
 title: Network Holding and a Bottleneck Principle for Synkyrian Kernels
 ---
 
-# Network Holding and a Bottleneck Principle for Synkyrian Kernels
-
 **ID:** N30  
 **Type:** Note  
 **Status:** Primary

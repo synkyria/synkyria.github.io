@@ -2,8 +2,6 @@
 title: RFK Overleaf Pack (experimental)
 ---
 
-# RFK Overleaf Pack (experimental)
-
 **ID:** E50  
 **Type:** Pack  
 **Status:** Experimental

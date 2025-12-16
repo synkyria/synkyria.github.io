@@ -2,8 +2,6 @@
 title: Synkyrian Geometric Morphogenesis
 ---
 
-# Synkyrian Geometric Morphogenesis
-
 **ID:** P2  
 **Type:** Paper  
 **Status:** Preprint (primary)

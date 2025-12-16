@@ -2,8 +2,6 @@
 title: HVF-VI: Thermodynamic–Stochastic Bridge (1D model)
 ---
 
-# HVF-VI: Thermodynamic–Stochastic Bridge (1D model)
-
 **ID:** N15  
 **Type:** Note  
 **Status:** Primary

@@ -2,8 +2,6 @@
 title: The Thermodynamic Right to Refusal
 ---
 
-# The Thermodynamic Right to Refusal
-
 **ID:** P3  
 **Type:** Paper  
 **Status:** Preprint (primary)

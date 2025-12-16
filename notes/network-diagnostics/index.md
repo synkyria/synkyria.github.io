@@ -2,8 +2,6 @@
 title: Network Diagnosis
 ---
 
-# Network Diagnosis
-
 **ID:** N40  
 **Type:** Note  
 **Status:** Primary

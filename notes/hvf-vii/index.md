@@ -2,8 +2,6 @@
 title: HVF-VII: Network Composition (KSP)
 ---
 
-# HVF-VII: Network Composition (KSP)
-
 **ID:** N16  
 **Type:** Note  
 **Status:** Primary

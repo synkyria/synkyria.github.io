@@ -2,8 +2,6 @@
 title: HVF-IX: Information-Geometric Optimal Sensing
 ---
 
-# HVF-IX: Information-Geometric Optimal Sensing
-
 **ID:** N18  
 **Type:** Note  
 **Status:** Primary

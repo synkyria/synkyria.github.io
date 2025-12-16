@@ -2,8 +2,6 @@
 title: Network Policies II (Dynamic flows)
 ---
 
-# Network Policies II (Dynamic flows)
-
 **ID:** N41  
 **Type:** Note  
 **Status:** Supporting

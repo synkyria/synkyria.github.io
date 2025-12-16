@@ -2,8 +2,6 @@
 title: HVF-XII: Regular, Robust, and Fast Holding under Latency
 ---
 
-# HVF-XII: Regular, Robust, and Fast Holding under Latency
-
 **ID:** N21  
 **Type:** Note  
 **Status:** Primary
