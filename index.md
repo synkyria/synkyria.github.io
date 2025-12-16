@@ -2,7 +2,6 @@
 title: Synkyria — A Field Theory of Holding
 ---
 
-# Synkyria — A Field Theory of Holding
 
 > *“Form does not announce itself. It repeats.  
 > And if it is held long enough, it becomes place.”*
