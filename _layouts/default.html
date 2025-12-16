@@ -1,30 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>{{ page.title }} · Synkyria</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  </head>
+---
+layout: default
+---
 
-  <body>
+{{ content }}
 
-    <header style="margin-bottom: 2rem;">
-      <strong><a href="{{ '/' | relative_url }}">Synkyria</a></strong>
-      · <a href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
-      · <a href="{{ '/library/' | relative_url }}">Library</a>
-    </header>
-
-    <main>
-      {{ content }}
-    </main>
-
-    <footer style="margin-top: 3rem; font-size: 0.9em; opacity: 0.8;">
-      <hr />
-      ⌂ <a href="{{ '/' | relative_url }}">Home</a>
-      · 📚 <a href="{{ '/library/' | relative_url }}">Library</a>
-      · 🧭 <a href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
-    </footer>
-
-  </body>
-</html>
