@@ -60,11 +60,12 @@ A complete ledger of the Synkyria site corpus (complete up to **2025-12-15**).
 - **Companion implementation track:** S20 + K30 + R40 + K60 (contract + hooks + demo + architecture).
 
 ---
+### Corpus
+- [Post–Stability Technical Corpus](../corpus/post-stability/)
 
-If you are unsure where to go next:
+### Translation Papers
+- [The Self Before Contact](../papers/self-before-contact/)
 
-- Start from the **[Architecture Map](/theory/)** to understand how the system fits together.
-- Or browse the **[Library](/library/)** to explore individual papers and notes.
 
 ---
 
