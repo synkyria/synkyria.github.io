@@ -328,3 +328,21 @@ hr {
   display: none;
 }
 
+/* --- Minima footer cleanup --- */
+
+/* Hide left footer column (duplicate site title) */
+.site-footer .footer-col-1 {
+  display: none;
+}
+
+/* Center remaining footer content */
+.site-footer .footer-col-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.site-footer .footer-col-2 {
+  text-align: center;
+  max-width: 640px;
+}
+
