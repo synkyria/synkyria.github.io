@@ -346,3 +346,40 @@ hr {
   max-width: 640px;
 }
 
+/* --- Subtle header & footer tone refinement (minima-safe) --- */
+
+/* Header */
+.site-header {
+  background-color: #f3f4f6;   /* very light cool grey */
+  border-bottom: 1px solid #e1e3e6;
+}
+
+.site-title,
+.site-title:visited {
+  color: #222;                /* slightly darker than body text */
+}
+
+.site-nav a {
+  color: #333;
+}
+
+.site-nav a:hover {
+  color: #000;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #f0f1f3;  /* slightly darker than header */
+  border-top: 1px solid #d8dade;
+}
+
+.site-footer,
+.site-footer p,
+.site-footer a {
+  color: #444;
+}
+
+.site-footer a:hover {
+  color: #000;
+}
+
