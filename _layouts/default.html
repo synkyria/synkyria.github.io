@@ -5,17 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <style>
+   <style>
   /* Header */
   .site-header {
     background: #f2f3f5;
     border-bottom: 1px solid #ddd;
   }
 
-  /* Footer */
+  /* Footer: full-width, left-right layout */
   .site-footer {
     background: #ededf0;
     border-top: 1px solid #d0d0d0;
+  }
+
+  /* Break footer out of narrow wrapper */
+  .site-footer .wrapper {
+    max-width: none;
+    padding: 0 2rem;
   }
 
   .site-footer .footer-col-wrapper {
@@ -24,18 +30,19 @@
     align-items: center;
   }
 
-  .site-footer .footer-col {
-    margin: 0;
-  }
-
+  /* Left: Synkyria (once) */
   .site-footer .footer-col-1 {
-    display: block;      
+    display: block;
+    text-align: left;
   }
 
+  /* Right: copyright */
   .site-footer .footer-col-2 {
-    text-align: right;  
+    text-align: right;
+    max-width: 70%;
   }
 </style>
+
 
   </head>
 
