@@ -261,3 +261,52 @@ small {
 .site-footer .site-nav {
   margin: 0.75rem auto 0 auto;
 }
+:root {
+  --accent: #3a5f7d;
+  --accent-soft: #eef3f7;
+  --text-muted: #555;
+}
+
+/* Background breathing */
+body {
+  background: #fafafa;
+}
+
+.page-content {
+  background: #ffffff;
+  padding: 3.5rem 3rem;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.04);
+}
+
+/* Links */
+a {
+  color: var(--accent);
+}
+a:hover {
+  color: #2c4a63;
+}
+
+/* Headings rhythm */
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+h2 {
+  margin-top: 3rem;
+}
+
+/* Quotes as holding zones */
+blockquote {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  font-style: italic;
+}
+
+/* Subtle section separation */
+hr {
+  border: none;
+  border-top: 1px solid #e4e6eb;
+  margin: 3rem 0;
+}
+
