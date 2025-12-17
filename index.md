@@ -16,6 +16,7 @@ before they either **break** or **transform**.
 ## Start Here
 
 - **[How to Read Synkyria](/how-to-read/)** — orientation guide for new readers  
+- **[Post–Stability Technical Corpus](/corpus/post-stability/)** — canonical verification backbone  
 - **[Library](/library/)** — complete catalogue of papers, notes, and tools  
 - **[Zenodo Releases](/library/zenodo/)** — citable, frozen academic records  
 
@@ -81,6 +82,12 @@ This layer is developed through:
 - **The Aura series (Aura 00, 01, 02, 03, 07, …)**  
   Rhythmic texts translating holding, refusal, and morphogenesis
   into lived experience.
+
+- **The Self Before Contact**  
+  A translation paper articulating pre-contact viability, refusal,
+  and identity as *survived form*, anchored explicitly in the
+  Post–Stability Technical Corpus.
+  → [Read the paper](/papers/self-before-contact/)
 
 - **Euryperos — The Field Without Form**  
   Suspension, non-resolution, and pre-form as complete modes of holding.
