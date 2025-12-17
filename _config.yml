@@ -1,9 +1,7 @@
-title: Synkyria
 theme: minima
 
-markdown: kramdown
-kramdown:
-  input: GFM
-
-permalink: pretty
+header_pages:
+  - index.md
+  - how-to-read/index.md
+  - library/index.md
 
