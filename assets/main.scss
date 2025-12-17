@@ -1,0 +1,60 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minima";
+
+/* ============================= */
+/* Synkyria – subtle refinements */
+/* ============================= */
+
+/* Header */
+.site-header {
+  background-color: #f3f4f6;
+  border-bottom: 1px solid #e1e3e6;
+}
+
+.site-title,
+.site-title:visited {
+  color: #222;
+}
+
+.site-nav a {
+  color: #333;
+}
+
+.site-nav a:hover {
+  color: #000;
+}
+
+/* Footer cleanup */
+.site-footer {
+  background-color: #f0f1f3;
+  border-top: 1px solid #d8dade;
+}
+
+.site-footer,
+.site-footer p,
+.site-footer a {
+  color: #444;
+}
+
+.site-footer a:hover {
+  color: #000;
+}
+
+/* Remove duplicate footer title column */
+.site-footer .footer-col-1 {
+  display: none;
+}
+
+.site-footer .footer-col-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.site-footer .footer-col-2 {
+  text-align: center;
+  max-width: 640px;
+}
+
