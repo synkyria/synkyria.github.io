@@ -35,3 +35,12 @@ All translation papers (e.g. *The Self Before Contact*) cite this corpus as thei
 
 - [Download the Post–Stability Technical Corpus (v3)](./Synkyria__Post__Stability_Technical_Corpus__v3.pdf)
 
+## External translation papers (non-canonical)
+
+The following texts provide phenomenological or interpretive translations
+of the technical corpus. They do not introduce new definitions or proofs
+and are not part of the numbered canonical record.
+
+- [The Self Before Contact: A Viability-Spine for Holding, Body, and Field](https://synkyria.github.io/papers/self-before-contact/)
+
+
