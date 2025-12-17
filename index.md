@@ -69,6 +69,7 @@ Key works include:
 
 👉 Explore the full theory stack in **[Theory](/theory/)**  
 👉 See frozen academic versions in **[Zenodo Releases](/library/zenodo/)**
+👉 See the verification spine in the **[Post–Stability Technical Corpus](/corpus/post-stability/)**
 
 ---
 
