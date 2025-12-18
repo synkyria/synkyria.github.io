@@ -19,3 +19,9 @@
   justify-content: space-between;
   align-items: flex-start;
 }
+.site-header .synkyria-container,
+.page-content .synkyria-container,
+.site-footer .synkyria-container {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
