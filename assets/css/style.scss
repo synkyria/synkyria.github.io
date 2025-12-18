@@ -1,0 +1,14 @@
+/* Synkyria minimal additions (safe) */
+
+.synkyria-container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Footer alignment */
+.site-footer .footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
