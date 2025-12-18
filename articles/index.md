@@ -52,17 +52,6 @@ All Auras are **citable, frozen, and archived on Zenodo**.
 
 ---
 
-## Manifesto
-
-- **The Tropic Manifesto**  
-  Ethical charter of the Synkyria programme:
-  holding before optimisation, the right to refuse,
-  and non-extractive, field-first design.  
-  → See PDF: **[Manifesto](/manifesto/)**   
- 
-
----
-
 ## External Published Work (Poetic / Rhythmic)
 
 - **Before Any Form**  
