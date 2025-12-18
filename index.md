@@ -60,10 +60,9 @@ This layer develops concepts such as:
 Key texts include:
 - **The Aura series**
 - **The Self Before Contact**
-- **Euryperos — The Field Without Form**
 - **The Tropic Manifesto**
 
-→ Read the texts in **[Articles & Auras](/articles/)**  
+→ Read the texts in **[Public Texts, Auras & External Works](/articles/)**  
 → See the stance in the **[Manifesto](/manifesto/)**  
 → Navigate concepts via the **[Tropic Lexicon](/lexicon)**
 
