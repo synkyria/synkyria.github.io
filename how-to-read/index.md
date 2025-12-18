@@ -1,4 +1,6 @@
-# How to read
+---
+title: How to read
+---
 
 Synkyria is not a single paper or a closed theory.
 It is a **framework for reasoning about viability under constraint**.
