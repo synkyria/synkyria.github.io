@@ -6,37 +6,37 @@
     <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
    <style>
-  /* Header */
-  .site-header {
-    background: #f2f3f5;
-    border-bottom: 1px solid #ddd;
-  }
-
-  /* Footer: full-width, left-right layout */
-  .site-footer {
-    background: #ededf0;
-    border-top: 1px solid #d0d0d0;
-  }
-
-.site-footer .wrapper {
-  max-width: 860px;   /* ή 860px αν αυτό χρησιμοποιεί το header */
-  margin: 0 auto;
-  padding: 0 1.25rem;
+/* Header */
+.site-header {
+  background: #f2f3f5;
+  border-bottom: 1px solid #ddd;
 }
 
+/* Footer */
+.site-footer {
+  background: #ededf0;
+  border-top: 1px solid #d0d0d0;
+}
 
-  .site-footer .footer-col-wrapper {
-    display: flex;
-    justify-content: space-between;
-    align-items: left;
-  }
+/* 🔑 ΚΟΙΝΟ GRID ΜΕ ΤΟ ΚΕΙΜΕΝΟ */
+.site-footer .wrapper {
+  max-width: 860px;      /* ίδιο με page-content */
+  margin: 0 auto;
+  padding: 0 1.25rem;    /* ίδιο padding με body */
+}
 
-  
-  /* Left: copyright */
-  .site-footer .footer-col-2 {
-    text-align: left;
-    max-width: 100%;
-  }
+/* Left–Right layout */
+.site-footer .footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+/* Left block (Synkyria / copyright) */
+.site-footer .footer-col-2 {
+  text-align: left;
+  margin: 0;
+}
 </style>
 
 
