@@ -21,10 +21,10 @@ the project also includes contextual and programmatic texts that explain
 
 ### Contents
 
-- **[Programme](/about/programme)**  
+- **[Programme](/about/programme.md)**  
   Purpose, vision, and axes of development of the Synkyria research programme.
 
-- **[Story — Synkyria as Cohabitation with AI](/about/story)**  
+- **[Story — Synkyria as Cohabitation with AI](/about/story.md)**  
   An account of the methodological and epistemic conditions under which
   the Synkyria framework emerged, including long-term cohabitation with AI companions.
 
