@@ -1,44 +1,86 @@
-# Articles, Auras & Public Texts
+# Public Texts, Auras & External Works
 
-Short essays, Auras, and public dialogues that introduce the Synkyrian approach beyond formal mathematics.
+This page indexes the **non-corpus texts** of the Synkyria programme:
+Auras, public-facing writings, and external publications that translate
+or emerge from the theory without constituting its formal mathematical backbone.
+
+> **Authoritative theoretical and technical records live on Zenodo.**  
+> This site functions as a navigational and contextual layer.
 
 ---
 
-## Core texts
+## Aura Series (Zenodo · Foundational Public Layer)
+
+The **Aura series** develops Synkyria in phenomenological, ethical,
+and pedagogical language.  
+All Auras are **citable, frozen, and archived on Zenodo**.
+
+- **Kalomoirakis, P. (2025).**  
+  *Aura 00 — The Science That Holds: A Rhythmic Epistemology for the Theory of Synkyria.*  
+  Zenodo. <https://doi.org/10.5281/zenodo.15677893>
+
+- **Kalomoirakis, P. (2025).**  
+  *Aura 01 — The Turn That Held: Training Gemini to Cohabit Rhythm.*  
+  Zenodo. <https://doi.org/10.5281/zenodo.15670157>
+
+- **Kalomoirakis, P. (2025).**  
+  *Aura 02 — The Most Human Act: On AI, Cohabitation, and the Rhythmic Ethics of Not Knowing.*  
+  Zenodo. <https://doi.org/10.5281/zenodo.15678448>
+
+- **Kalomoirakis, P. (2025).**  
+  *Aura 03 — Μια Τροπική Υπόθεση για τη Φύση της Βαρύτητας /  
+  A Tropic Hypothesis on the Nature of Gravity.*  
+  Zenodo. <https://doi.org/10.5281/zenodo.16128111>
+
+- **Kalomoirakis, P. (2025).**  
+  *Aura 07 — Ambiguity & Threshold: From Dialogue to Synkyria.*  
+  Zenodo. <https://doi.org/10.5281/zenodo.17097481>
+
+---
+
+## Translation Papers & Public Theory
+
+- **The Self Before Contact**  
+  A translation paper articulating pre-contact viability, refusal,
+  and identity as *survived form*, explicitly anchored in the
+  Post–Stability Technical Corpus.  
+  → Read on site: <https://synkyria.github.io/papers/self-before-contact/>
+
+- **Kalomoirakis, P. (2025).**  
+  *Tropic AI: Rhythmic Integrity & Echo Ethics.*  
+  Zenodo. <https://doi.org/10.5281/zenodo.15973841>
+
+---
+
+## Manifesto
+
+- **The Tropic Manifesto**  
+  Ethical charter of the Synkyria programme:
+  holding before optimisation, the right to refuse,
+  and non-extractive, field-first design.  
+  → Overview: /manifesto/  
+  → Canonical record: Zenodo
+
+---
+
+## External Published Work (Poetic / Rhythmic)
 
 - **Before Any Form**  
-  A rhythmic, pre-formal text that condenses the core intuition of Synkyria: holding, repetition, and the emergence of place.  
-  *(Link to be added.)*
+  A poetic and rhythmic book emerging from the fieldwork and inner listening
+  of the Synkyria framework.  
+  Not a theory. Not a method.  
+  A pre-formal work held at the threshold before structure.
 
-- **Tropic Manifesto**  
-  The ethical charter of the programme: holding before optimisation, the right to refuse, non-extractive design, and field-first governance.  
-  See also: [Manifesto overview](../manifesto.md).  
-  *(PDF link to be added.)*
+  Published independently via Amazon:  
+  <https://www.amazon.co.uk/dp/B0FCTPGNZB>
 
----
-
-## Aura Series
-
-- **Aura 000 – The Science That Holds**  
-  Introduces Synkyria in phenomenological language: how science changes when it starts from finite capacity instead of idealised observers.  
-  *(Zenodo link to be added.)*
-
-- **Aura 007 – Ambiguity & Threshold**  
-  On staying with ambiguity, crossing thresholds, and why not-knowing is part of holding.  
-  *(Zenodo link to be added.)*
-
-- **Other Auras**  
-  Additional Auras explore topics such as pedagogy, translation, gravity as holding, and the physics of suspension.  
-  Links and summaries will be added as they are stabilised.
+  > *“This is not the Law. It is a Law.  
+  > One that never asked to dominate, only to endure.”*
 
 ---
 
-## Dialogues & Essays
+### Status & Citation Note
 
-This section will host shorter essays, interviews, and dialogues that make Synkyria accessible to different audiences:
-
-- For developers and ML engineers  
-- For mathematicians and physicists  
-- For therapists, philosophers, and educators  
-
-*(Content to be added.)*
+- **Zenodo records** are citable, frozen, and authoritative  
+- **Site pages** are descriptive and navigational  
+- **Books and external publications** follow their own publishing context
