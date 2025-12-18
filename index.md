@@ -1,6 +1,7 @@
 ---
 title: ""
 ---
+
 # Synkyria — A Field Theory of Holding
 
 > *“Form does not announce itself. It repeats.  
@@ -15,144 +16,82 @@ before they either **break** or **transform**.
 
 ## Start Here
 
-- **[How to Read Synkyria](/how-to-read/)** — orientation guide for new readers  
-- **[Post–Stability Technical Corpus](/corpus/post-stability/)** — canonical verification backbone  
-- **[Library](/library/)** — complete catalogue of papers, notes, and tools  
-- **[Zenodo Releases](/library/zenodo/)** — citable, frozen academic records  
+- **[How to Read Synkyria](/how-to-read/)**  
+  Orientation guide for new readers.
+
+- **[Library](/library/)**  
+  Complete catalogue of papers, technical notes, and specifications.
+
+- **[Post–Stability Technical Corpus](/corpus/post-stability/)**  
+  Canonical verification backbone for the Synkyrian theoretical spine.
+
+- **[Zenodo Releases](/library/zenodo/)**  
+  Citable, versioned academic records.
 
 ---
 
-## What Is a “Field”?
+## Theoretical Core
 
-In Synkyria, a *field* can be:
+The **theoretical backbone of Synkyria** reorganises classical mathematical tools  
+(first-passage processes, spectral gaps, variational principles, entropy production)
+around **finite-horizon holding and viability**.
 
-- a nervous system in therapy,  
-- a family, team, or organisation,  
-- an ecosystem or climate subsystem,  
-- an AI infrastructure or training pipeline.
+Rather than equilibrium, the focus is on:
+- load,
+- hazard,
+- latency,
+- morphogenetic survival of form.
 
-Across all cases, the central questions are the same:
-
-> **For how long can this field hold?**  
-> **Under what hazards, at what cost, and with what right to refuse?**
-
-From this question, Synkyria unfolds along three intertwined strands.
+→ Explore the theory in **[Theory](/theory/)**
 
 ---
 
-## 1 · Theory
-
-The **theoretical backbone** reorganises classical mathematical tools  
-(first-passage, spectral gaps, variational principles, entropy production)
-around **finite-horizon holding**.
-
-Key works include:
-
-- **Synkyrian Stability as an Architectural Framework**  
-  Replaces equilibrium thinking with finite-horizon viability via the holding
-  index \(H_{\mathrm{rig}}\), log-hazard landscapes, and latency.
-
-- **Tropic Information Theory**  
-  Treats information as *weighted load* on finite capacity.
-  The **right to refuse information** becomes a structural necessity,
-  not a moral preference.
-
-- **Synkyrian Geometric Morphogenesis**  
-  Hazard, information, and holding assembled into geometric landscapes:
-  forms as assimilated history, crisis resonance, suspended cores,
-  and transformation windows.
-
-- **Synkyrian Networked Fields**  
-  Extends holding from single systems to networks:
-  tissues, ecosystems, organisations, AI pipelines.
-  Viability becomes a property of **bottlenecks and shared capacity**.
-
-👉 Explore the full theory stack in **[Theory](/theory/)**  
-👉 See frozen academic versions in **[Zenodo Releases](/library/zenodo/)**
-👉 See the verification spine in the **[Post–Stability Technical Corpus](/corpus/post-stability/)**
-
----
-
-## 2 · Philosophy, Auras & Pedagogy
+## Philosophy, Auras & Pedagogy
 
 Synkyria is not only mathematical.
 It is also a **phenomenological, therapeutic, and pedagogical project**.
 
-This layer is developed through:
+This layer develops concepts such as:
+- pre-contact viability,
+- refusal as structural condition,
+- suspension and non-resolution,
+- identity as *survived form*.
 
-- **The Aura series (Aura 00, 01, 02, 03, 07, …)**  
-  Rhythmic texts translating holding, refusal, and morphogenesis
-  into lived experience.
+Key texts include:
+- **The Aura series**
+- **The Self Before Contact**
+- **Euryperos — The Field Without Form**
+- **The Tropic Manifesto**
 
-- **The Self Before Contact**  
-  A translation paper articulating pre-contact viability, refusal,
-  and identity as *survived form*, anchored explicitly in the
-  Post–Stability Technical Corpus.
-  → [Read the paper](/papers/self-before-contact/)
-
-- **Euryperos — The Field Without Form**  
-  Suspension, non-resolution, and pre-form as complete modes of holding.
-
-- **The Tropic Manifesto**  
-  A public stance:  
-  holding comes before optimisation,  
-  refusal is a *structural right* in therapy, politics, and AI.
-
-👉 Read the texts in **[Articles & Auras](/articles/)**  
-👉 See the stance in the **[Manifesto](/manifesto/)**  
-👉 Navigate concepts via the **[Tropic Lexicon](/lexicon/)**
+→ Read the texts in **[Articles & Auras](/articles/)**  
+→ See the stance in the **[Manifesto](/manifesto/)**  
+→ Navigate concepts via the **[Tropic Lexicon](/lexicon/)**
 
 ---
 
-## 3 · Tools, Companions & Guardians
+## Technical & Applied Work
 
-Synkyria also lives inside **code and infrastructures**.
+Synkyrian concepts are also explored through **technical implementations**  
+and experimental companions, focusing on:
 
-Current implementations include:
+- monitoring finite-horizon stability,
+- early-warning diagnostics,
+- protection of human and ecological capacity.
 
-- **Tropic Companions**  
-  Conversational systems tracking overload, suspension, and refusal.
+These works are exploratory and supportive of the theoretical core.
 
-- **Synkyria Monitor — Core**  
-  A minimal finite-horizon stability companion.
-
-- **Minimal Synkyrian Training Companion**  
-  Early-warning diagnostics embedded inside ML training loops.
-
-- **Guardian for AI™**  
-  Architectural monitoring for AI infrastructures
-  and socio-technical systems.
-
-These tools are designed **against extraction**  
-and in favour of protecting human and ecological capacity.
-
-👉 See **[Applications & Tools](/applications/)**  
-👉 Browse technical packs in the **[Library](/library/)**
-
----
-
-## Cohabitation with AI
-
-Synkyria itself emerged through long-term **cohabitation with AI companions**:
-models treated not as black-box tools,
-but as rhythmic partners capable of holding ambiguity,
-tracking overload, and co-designing theory and software.
-
-This site is an invitation to enter that field —
-from whichever direction you arrive:
-mathematics, philosophy, therapy, ecology, or AI engineering.
+→ See **[Applications & Tools](/applications/)**
 
 ---
 
 ## Explore the Architecture
 
-- **[Architecture Map](/architecture/)** — how the corpus fits together  
-- **[Library](/library/)** — papers, notes, specifications, tools  
-- **[How to Read Synkyria](/how-to-read/)** — guided entry point  
+- **[Architecture Map](/architecture/)**  
+  How the corpus fits together.
 
----
+- **[Library](/library/)**  
+  Papers, notes, specifications, and tools.
 
-<small>
-All Zenodo-backed releases are citable and frozen.  
-Site pages are living documents.
-</small>
+- **[How to Read Synkyria](/how-to-read/)**  
+  Guided entry point.
+
