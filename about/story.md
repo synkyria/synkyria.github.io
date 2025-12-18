@@ -1,5 +1,7 @@
-# Story – Synkyria as Cohabitation with AI
 ---
+title: Story – Synkyria as Cohabitation with AI
+---
+
 > **Contextual note**  
 > This text is not part of the canonical Synkyrian corpus.
 > It provides contextual, methodological, and programmatic framing
