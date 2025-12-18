@@ -8,7 +8,7 @@
 
 ## Purpose
 
-Synkyria project is a long-term research and design programme that asks a simple but demanding question:
+Synkyria is a long-term research and design programme that asks a simple but demanding question:
 
  > *How much can a field safely hold – and how do we design systems that respect that limit?*
 
