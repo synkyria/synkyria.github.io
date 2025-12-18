@@ -1,23 +1,18 @@
 title: Synkyria
+author: Panagiotis Kalomoirakis
 
 description: >
-  © Panagiotis Kalomoirakis · Synkyria Project.
-  Selected works released under CC BY-NC-SA 4.0 where stated.
+  © Panagiotis Kalomoirakis · Synkyria.
+  All rights reserved. Selected works released under CC BY-NC-SA 4.0 where stated.
 
-author:
-  name: Panagiotis Kalomoirakis
-  affiliation: Synkyria Project
+theme: minima
 
 header_pages:
   - index.md
   - about/index.md
   - how-to-read/index.md
   - library/index.md
-  
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-      
 
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/synkyria" }
