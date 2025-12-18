@@ -1,5 +1,5 @@
 ---
-title: About Synkyria
+title: About
 permalink: /about/
 ---
 
