@@ -11,6 +11,7 @@ Use the paths below.
 ## 1. What problem does Synkyria address?
 
 Most theories optimise for:
+
 - equilibrium
 - efficiency
 - convergence
@@ -18,9 +19,14 @@ Most theories optimise for:
 
 Synkyria asks a different question:
 
-> **Can a system remain viable under finite resources, load, and time?**
+**Can a field remain viable under finite resources, load, and time?**
 
-This shift—from equilibrium to **finite-horizon viability**—is the core idea.
+Across therapy, organisations, ecosystems, and technical systems,
+Synkyria treats each as a *field*:
+a finite structure that must hold under load, hazard, and time.
+
+This shift—from equilibrium to **finite-horizon viability**—
+is the core idea of Synkyria.
 
 ---
 
