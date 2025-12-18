@@ -4,7 +4,7 @@
 > This text is not part of the canonical Synkyrian corpus.
 > It provides contextual, methodological, and programmatic framing
 > for the Synkyria project.
----
+
 
 ## Purpose
 
