@@ -1,6 +1,5 @@
----
-title: How to Read Synkyria
-subtitle: Orientation guide for first-time readers
+#How to Read Synkyria
+**Orientation guide for first-time readers
 ---
 
 Synkyria is not a single paper or a closed theory.
