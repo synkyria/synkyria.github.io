@@ -48,12 +48,4 @@ See [Applications & Tools](applications/).
 
 ---
 
-## Guardian for AI™
-
-A monitoring and governance layer for AI infrastructures, designed to track holding, overload and systemic risk in pipelines and organisations. Built to be non-extractive and field-first.
-
-See [Applications & Tools](applications/).
-
----
-
 *(More entries will be added as the programme stabilises.)*
