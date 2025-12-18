@@ -8,10 +8,10 @@ description: >
 theme: minima
 
 header_pages:
-  - index.md
-  - about/index.md
   - how-to-read/index.md
   - library/index.md
+  - about/index.md
+
 
 minima:
   social_links:
