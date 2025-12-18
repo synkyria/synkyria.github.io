@@ -58,8 +58,8 @@ All Auras are **citable, frozen, and archived on Zenodo**.
   Ethical charter of the Synkyria programme:
   holding before optimisation, the right to refuse,
   and non-extractive, field-first design.  
-  → Overview: /manifesto/  
-  → Canonical record: Zenodo
+  → See PDF: **[Manifesto](/manifesto/)**   
+ 
 
 ---
 
