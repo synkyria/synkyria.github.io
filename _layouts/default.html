@@ -2,72 +2,44 @@
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
     <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>
-      {% if page.title and page.title != "" %}
-        {{ page.title }} · {{ site.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </title>
-
-    {% if site.github and site.github.build_revision %}
-      <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% else %}
-      <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    {% endif %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
 
   <body>
 
     <!-- Header -->
-    <header class="border-bottom" style="background:#f2f3f5;">
-      <div class="container-lg px-3">
-        <div class="d-flex flex-justify-between flex-items-center py-3 flex-wrap" style="gap:1rem;">
-          <a class="h4 text-decoration-none" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-
-          <nav class="d-flex flex-items-center flex-wrap" style="gap:.5rem; font-size:.95rem;">
-            <a class="text-decoration-none" href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
-            <span aria-hidden="true">·</span>
-            <a class="text-decoration-none" href="{{ '/library/' | relative_url }}">Library</a>
-            <span aria-hidden="true">·</span>
-            <a class="text-decoration-none" href="{{ '/about/' | relative_url }}">About</a>
-          </nav>
-        </div>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.title }}
+        </a>
+        <nav class="site-nav">
+          <a href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
+          · <a href="{{ '/library/' | relative_url }}">Library</a>
+          · <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
       </div>
     </header>
 
-    <!-- Content (aligned with header/footer) -->
-    <main class="container-lg px-3 my-5 markdown-body">
-      {{ content }}
+    <!-- Content -->
+    <main class="page-content">
+      <div class="wrapper">
+        {% if page.title %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </div>
     </main>
 
     <!-- Footer -->
-    <footer class="border-top" style="background:#ededf0;">
-      <div class="container-lg px-3">
-        <div class="d-flex flex-justify-between flex-items-center py-3 flex-wrap" style="gap:.75rem;">
-          <span>
-            © {{ site.time | date: "%Y" }}
-            {% if site.author and site.author.name %}
-              {{ site.author.name }}
-            {% elsif site.author %}
-              {{ site.author }}
-            {% else %}
-              {{ site.title }}
-            {% endif %}
-          </span>
-
-          <span>
-            {% if site.license_note %}
-              {{ site.license_note }}
-            {% else %}
-              All rights reserved. Selected works released under CC BY-NC-SA where stated.
-            {% endif %}
-          </span>
-        </div>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <span>© {{ site.time | date: "%Y" }} Panagiotis Kalomoirakis</span>
       </div>
     </footer>
 
   </body>
 </html>
+
