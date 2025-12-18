@@ -1,4 +1,6 @@
-# Public Texts, Auras & External Works
+---
+title: Public Texts, Auras & External Works
+---
 
 This page indexes the **non-corpus texts** of the Synkyria programme:
 Auras, public-facing writings, and external publications that translate
