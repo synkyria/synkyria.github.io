@@ -1,5 +1,7 @@
-# Synkyria Programme – Purpose, Vision, and Axes
 ---
+title: Synkyria Programme – Purpose, Vision, and Axes
+---
+
 > **Contextual note**  
 > This text is not part of the canonical Synkyrian corpus.
 > It provides contextual, methodological, and programmatic framing
