@@ -1,10 +1,8 @@
 ---
-title: About
+title: About this project
 permalink: /about/
 ---
 
-
-## About this project
 
 Synkyria is a research programme conceived and led by Panagiotis Kalomoirakis.
 Beyond its formal papers, technical corpora, and Zenodo-archived releases,
