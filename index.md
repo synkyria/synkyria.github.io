@@ -65,7 +65,7 @@ Key texts include:
 
 → Read the texts in **[Articles & Auras](/articles/)**  
 → See the stance in the **[Manifesto](/manifesto/)**  
-→ Navigate concepts via the **[Tropic Lexicon](/lexicon/)**
+→ Navigate concepts via the **[Tropic Lexicon](/lexicon)**
 
 ---
 
