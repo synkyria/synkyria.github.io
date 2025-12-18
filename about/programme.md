@@ -5,11 +5,12 @@
 > It provides contextual, methodological, and programmatic framing
 > for the Synkyria project.
 ---
+
 ## Purpose
 
 Synkyria is a long-term research and design programme that asks a simple but demanding question:
 
-> **How much can a field safely hold – and how do we design systems that respect that limit?**
+ *How much can a field safely hold – and how do we design systems that respect that limit?*
 
 A “field” here can be a person, a family, an organisation, an ecosystem, or an AI infrastructure.  
 Each has finite capacity. Load, risk, and information cannot be pushed indefinitely without collapse.
