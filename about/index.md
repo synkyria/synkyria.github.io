@@ -1,7 +1,9 @@
 ---
 title: About Synkyria
 permalink: /about/
+layout: custom
 ---
+
 
 ## About this project
 
