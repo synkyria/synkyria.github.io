@@ -1,7 +1,4 @@
----
-title: Zenodo Releases
-layout: default
----
+# Zenodo Releases
 
 This page lists the **canonical Zenodo records** for the Synkyria corpus.
 These are the *frozen, citable versions* of the work (DOI-backed), intended
