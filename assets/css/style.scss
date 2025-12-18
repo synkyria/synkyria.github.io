@@ -25,3 +25,13 @@
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
+/* Force custom header nav to always show (override minima) */
+.site-header .site-nav {
+  display: inline-flex !important;
+  gap: 0.75rem;
+  white-space: nowrap;
+}
+
+.site-header .site-nav a {
+  display: inline;
+}
