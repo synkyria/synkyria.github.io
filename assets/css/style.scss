@@ -91,3 +91,13 @@
 .site-footer a:hover {
   opacity: 0.7;
 }
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-header .site-nav {
+  display: flex;
+  gap: 1.75rem;
+}
