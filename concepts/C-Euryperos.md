@@ -1,13 +1,6 @@
 ---
-type: concept
-concept_id: C-EURY-PEROS
-title: Euryperos – The Field Without Form
-aliases: [Ευρύπερος, Euryperos Field]
-status: active
-volumes: [18, 18.1]
-tags: [synkyria, euryperos, tvl, tcf-pk1, suspension, information, holding, field]
-related_tools: [TCF-PK1, ETP-X9]
-related_tropai: [Tropē 11 – Anectropy, Tropē 30 – Coherent Dissolution]
+title: Euryperos
+layout: default
 ---
 
 ## 1. Tropic name & short definition
