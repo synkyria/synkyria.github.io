@@ -1,7 +1,6 @@
 ---
 title: " "
 ---
-
 # Synkyria — A Field Theory of Holding
 
 > *“Form does not announce itself. It repeats.  
