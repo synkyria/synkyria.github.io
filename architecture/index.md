@@ -10,6 +10,10 @@ Synkyria is organised as an **architectural system**, not a linear theory.
 Each layer answers a different question about **viability under constraint**,
 and layers are designed to *compose*, not replace one another.
 
+> **Canonical status.**  
+> All items listed here correspond to *canonical Zenodo records* unless explicitly marked as notes, specifications, or reproducible artifacts.  
+> The site provides architectural navigation; Zenodo provides citable authority.
+
 ---
 
 ## 1. Canonical Spine — Viability as Architecture
@@ -32,7 +36,7 @@ Everything else either:
 
 ---
 
-## 2. Bridge Layer — From Information to Form
+## 2. Bridge Layer — From Load to Form
 
 These papers explain **how load becomes structure**.
 
@@ -165,3 +169,7 @@ This track translates Synkyria into **technical companions**.
 > - and survival is finite-horizon.
 
 ---
+> **Important:**  
+> Phenomenological texts, Auras, manifestos, and translation papers
+> (e.g. *The Self Before Contact*) are **not part of the canonical spine**.
+> They articulate, translate, or expose the architecture without extending it.
