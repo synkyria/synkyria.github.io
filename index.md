@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 ---
 # Synkyria — A Field Theory of Holding
 
