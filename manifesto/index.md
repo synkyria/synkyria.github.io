@@ -15,4 +15,4 @@ Public stance: holding before optimisation; right-to-refusal; non-extractive des
 ## Suggested combinations
 - Use as interpretive layer for **P3/P6/C1** (rights/clauses are structural, not advice).
 
-↩︎ Back to the [Library](/library/).
+
