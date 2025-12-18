@@ -1,5 +1,10 @@
 # Synkyria Programme – Purpose, Vision, and Axes
 
+> **Contextual note**  
+> This text is not part of the canonical Synkyrian corpus.
+> It provides contextual, methodological, and programmatic framing
+> for the Synkyria project.
+
 ## Purpose
 
 Synkyria is a long-term research and design programme that asks a simple but demanding question:
