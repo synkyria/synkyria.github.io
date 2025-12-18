@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About this project
 
-Synkyria is a long-term research and design programme.
+Synkyria is a research programme conceived and led by Panagiotis Kalomoirakis.
 Beyond its formal papers, technical corpora, and Zenodo-archived releases,
 the project also includes contextual and programmatic texts that explain
 **how** and **why** this work has taken the form it has.
