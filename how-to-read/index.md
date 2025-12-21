@@ -50,6 +50,31 @@ Focus on:
 
 Everything else builds around this.
 
+
+## Interlude: Reading at the Human Scale (SFV)
+
+Not all readers will want—or need—to begin from formal mathematics.
+
+For those interested in how viability constraints are *lived* rather than formalised,
+Synkyria develops a parallel but autonomous series:
+
+### Structural Phenomenology of Viability (SFV)
+
+SFV translates finite-horizon constraints into human-scale intelligibility:
+silence, hesitation, ambiguity, refusal, and restraint
+as lawful structural operations rather than psychological deficits.
+
+It does **not** apply mathematics to experience,
+nor does it derive phenomenology from formal models.
+Instead, it articulates the *same constraint* at a different scale.
+
+→ Explore the series at **[Structural Phenomenology of Viability (SFV)](/sfv/)**
+
+Readers may engage SFV independently,
+or return to the formal corpus after orientation.
+
+---
+
 ---
 
 ## 3. Understand why information must be filtered
