@@ -139,3 +139,37 @@
   margin-top: -0.2rem;
 }
 
+.site-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-identity {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.site-tagline {
+  font-size: 0.8rem;
+  color: #777;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 0.2rem;
+  text-decoration: none;
+}
+
+.site-tagline:hover {
+  text-decoration: underline;
+}
+
+.site-nav a {
+  margin-left: 1.2rem;
+}
+
