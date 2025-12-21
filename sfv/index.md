@@ -83,24 +83,48 @@ SFV names these conditions **without pathologising them**.
 
 ## Canonical Texts in the Series
 
-The series currently comprises the following works:
-
-### 1. *Self Before Contact*
-Pre-contact as a structural condition rather than a psychological deficit.
-
-### 2. *Finite-Horizon Discernment Before Contact*
-A structural discriminator between holding, avoidance, and shutdown.
-
-### 3. *The Embodied Viability Protocol (Tropic Body)*
-The body as a coupling interface for admissibility.
-
-### 4. *Ambiguity as Structural Law*
-Non-closure as a lawful condition under finite horizons.
-
-### 5. *(Forthcoming)* *Living in Pre-Contact*
-Inhabitation without requiring resolution or form.
+The Structural Phenomenology of Viability series currently comprises the following works.
+Each text is available as a canonical PDF artifact.
 
 ---
+
+### 1. *The Self Before Contact*
+
+Introduces the pre-contact layer as a structural condition rather than a psychological deficit.
+Establishes the body not as a container or technique, but as a tuning interface for admissibility.
+
+**Canonical PDF:**  
+[Download — The Self Before Contact](/assets/sfv/sfv-01-self-before-contact.pdf)
+
+---
+
+### 2. *Finite-Horizon Discernment Before Contact*
+
+Formalises a structural discriminator between holding, avoidance, and shutdown.
+Translates finite-horizon viability into clinical and phenomenological discernment without protocolisation.
+
+**Canonical PDF:**  
+[Download — Finite-Horizon Discernment Before Contact](/assets/sfv/sfv-02-finite-horizon-discernment.pdf)
+
+---
+
+### 3. *The Embodied Viability Protocol (Tropic Body)*
+
+Articulates the body as the coupling interface through which admissibility is preserved or lost.
+Introduces somatic signatures of viability regimes as phenomenological indicators, not measurements.
+
+**Canonical PDF:**  
+[Download — The Embodied Viability Protocol](/assets/sfv/sfv-03-embodied-viability-protocol.pdf)
+
+---
+
+### 4. *Ambiguity as Structural Law*
+
+Reframes ambiguity as lawful non-closure under finite horizons rather than epistemic confusion.
+Shows how premature closure accelerates collapse and forecloses morphogenetic possibility.
+
+**Canonical PDF:**  
+[Download — Ambiguity as Structural Law](/assets/sfv/sfv-04-ambiguity-as-structural-law.pdf)
 
 ## Relation to Other Corpora
 
