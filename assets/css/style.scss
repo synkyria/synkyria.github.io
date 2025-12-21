@@ -173,3 +173,36 @@
   margin-left: 1.2rem;
 }
 
+.site-header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-left {
+  display: flex;
+  align-items: center;
+  gap: 2.8rem; /* ΤΟ ΣΗΜΑΝΤΙΚΟ ΚΕΝΟ */
+}
+
+.site-title {
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+.site-fop {
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #555;
+  text-decoration: none;
+}
+
+.site-fop:hover {
+  text-decoration: underline;
+}
+
+.site-nav a {
+  margin-left: 1.6rem; /* πιο αραιά links */
+}
+
