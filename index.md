@@ -2,10 +2,6 @@
 title: ""
 ---
 
----
-title: Synkyria
----
-
 # Synkyria  
 ### A Field Theory of Holding
 
