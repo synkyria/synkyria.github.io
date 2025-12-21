@@ -142,6 +142,122 @@ This track translates Synkyria into **technical companions**.
 - Shows holding, refusal, and diagnostics *in action*
 
 ---
+## Interpretive & Translational Layers (Non-Canonical)
+These corpora do **not extend** the Synkyrian architecture.
+They articulate, translate, or inhabit it at different scales.
+
+They remain **structurally constrained by the spine**
+without introducing new formal commitments.
+
+---
+
+### Auras (Ontological Articulations)
+→ `/articles/`
+
+- Rhythmic theoretical manifestations
+- Hold conceptual emergence without closure
+- Define epistemological and ontological stance
+- **Aura 00** establishes the field-first epistemology of Synkyria
+
+Auras do not argue or derive.
+They *hold*.
+
+---
+
+### Structural Phenomenology of Viability (SFV)
+→ `/sfv/`
+
+- Human-scale articulation of viability constraints
+- Silence, hesitation, ambiguity, refusal, suspension
+  as lawful structural operations
+- Translates finite-horizon admissibility into lived regimes
+
+SFV does not apply mathematics to experience.
+It renders the **same constraint** intelligible at another scale.
+
+---
+
+Σωστός — και **πολύ καλή παρατήρηση**. Έχεις απόλυτο δίκιο:
+το *The Self Before Contact* **δεν ανήκει εδώ** πια. Ανήκει **καθαρά στο SFV**.
+
+Άρα κάνουμε **καθαρό διαχωρισμό τριών πραγμάτων**:
+
+1. **SFV** → ανθρώπινη/φαινομενολογική άρθρωση της ίδιας δομικής συνθήκης
+2. **Translation & Public Theory** → κείμενα *για AI / ethics / δημόσια θεωρία*
+3. **External Poetic / Rhythmic Work** → *Before Any Form* (εκτός θεωρίας)
+
+Παρακάτω σου δίνω **ΑΚΡΙΒΩΣ** το διορθωμένο section για το *Architecture Map*, έτοιμο για copy–paste.
+
+---
+
+## ✅ Τελική σωστή μορφή section (διορθωμένο)
+
+### 📌 Πού μπαίνει
+
+👉 **Στο Architecture Map**, μέσα στο section
+**Interpretive & Translational Layers (Non-Canonical)**
+👉 **ΑΝΤΙΚΑΘΙΣΤΑ** το προηγούμενο “Translation & Public Theory” block
+
+---
+
+## **Translation & Public Theory (Non-Canonical)**
+
+→ `/articles/`
+
+These works translate Synkyrian constraints into **adjacent domains**
+without extending the formal architecture.
+
+They are neither phenomenology nor mathematics,
+but **public-facing theoretical articulations**
+that remain structurally dependent on the canonical spine.
+
+Representative work includes:
+
+* **Kalomoirakis, P. (2025).**
+  *Tropic AI: Rhythmic Integrity & Echo Ethics.*
+  Zenodo.
+  [https://doi.org/10.5281/zenodo.15973841](https://doi.org/10.5281/zenodo.15973841)
+
+These texts:
+
+* expose Synkyrian concepts to AI, ethics, and design discourse,
+* test conceptual coherence under translation,
+* **do not introduce new structural commitments**.
+
+---
+
+## **External Poetic / Rhythmic Work (Non-Theoretical)**
+
+These works emerge from the same field,
+but **do not belong to the Synkyrian theoretical corpus**.
+
+They are neither arguments nor frameworks,
+but **pre-formal rhythmic expressions**.
+
+### **Before Any Form**
+
+A poetic and rhythmic book emerging from
+the fieldwork and inner listening of the Synkyria framework.
+
+* Not a theory
+* Not a method
+* Not an interpretation
+
+A work held **at the threshold before structure**.
+
+Published independently via Amazon:
+[https://www.amazon.co.uk/dp/B0FCTPGNZB](https://www.amazon.co.uk/dp/B0FCTPGNZB)
+
+> *“This is not the Law.
+> It is a Law.
+> One that never asked to dominate, only to endure.”*
+
+---
+
+> **Architectural status:**  
+> These layers are *non-canonical*, but not optional.  
+> They preserve coherence across scales
+> without collapsing phenomenology, ontology, or mathematics.
 
 ## Reading Paths (Suggested)
 
