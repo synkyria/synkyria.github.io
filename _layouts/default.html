@@ -1,41 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
 
-    {{ site.head }}
-  </head>
+  {% include head.html %}
 
   <body>
 
-    <!-- Header (custom override) -->
-    <header class="site-header">
-      <div class="wrapper">
+    {% include header.html %}
 
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.title }}
-        </a>
-
-        <nav class="site-nav">
-          <a href="{{ '/fop/' | relative_url }}">FOP</a>
-          <a href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
-          <a href="{{ '/library/' | relative_url }}">Library</a>
-          <a href="{{ '/about/' | relative_url }}">About</a>
-        </nav>
-
-      </div>
-    </header>
-
-    <!-- Main content -->
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
 
-    <!-- Footer (existing include) -->
     {% include footer.html %}
 
   </body>
