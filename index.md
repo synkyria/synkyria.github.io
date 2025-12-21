@@ -70,27 +70,17 @@ Key texts include:
 
 ## Technical & Applied Work
 
-Synkyrian concepts are also explored through **technical implementations**  
-and experimental companions, focusing on:
+Synkyrian concepts are also articulated through **operational companions**
+that translate finite-horizon stability theory into observable,
+experimental form.
 
-- monitoring finite-horizon stability,
-- early-warning diagnostics,
-- protection of human and ecological capacity.
+These applications explore:
+- finite-horizon viability and holding,
+- structural early-warning signals,
+- protection of human and ecological capacity under load.
 
-These works are exploratory and supportive of the theoretical core.
+They function as research instruments supporting and extending
+the theoretical core.
 
-→ See **[Applications & Tools](/applications/)**
-
----
-
-## Explore the Architecture
-
-- **[Architecture Map](/architecture/)**  
-  How the corpus fits together.
-
-- **[Library](/library/)**  
-  Papers, notes, specifications, and tools.
-
-- **[How to Read Synkyria](/how-to-read/)**  
-  Guided entry point.
+→ See **[Software & Applications](/applications/)**
 

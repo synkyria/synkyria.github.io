@@ -1,4 +1,6 @@
-# Technical Foundations of Synkyria
+---
+title: Technical Foundations of Synkyria
+---
 
 This page collects the more technical notes and preprints that underpin the Synkyrian trilogy and the network framework. It is not exhaustive, but it gives readers a map of the core mathematical and physical constructions.
 
