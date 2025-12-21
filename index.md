@@ -2,85 +2,112 @@
 title: ""
 ---
 
-# Synkyria — A Field Theory of Holding
+---
+title: Synkyria
+---
 
-> *“Form does not announce itself. It repeats.  
-> And if it is held long enough, it becomes place.”*
+# Synkyria  
+### A Field Theory of Holding
 
-**Synkyria** is a multi-layer field theory of **holding**:  
-a way of understanding humans, organisations, ecosystems, and technical systems
-as *finite fields* that can only carry so much load, risk, and information
-before they either **break** or **transform**.
+> *Form does not announce itself.  
+> It repeats.  
+> And if it is held long enough, it becomes place.*
+
+**Synkyria** is a field-first theoretical framework for understanding
+how humans, organisations, ecosystems, and technical systems
+remain **viable under finite time, capacity, and load**.
+
+It does not begin from subjects, agents, or decisions,
+but from the **conditions under which form, meaning, and action
+may—or may not—become possible without being forced**.
 
 ---
 
-## Start Here
+## Fractal Onto-Praxis
 
-- **[How to Read Synkyria](/how-to-read/)**  
-  Orientation guide for new readers.
+All work presented here unfolds under a single umbrella:
 
-- **[Library](/library/)**  
-  Complete catalogue of papers, technical notes, and specifications.
+**Fractal Onto-Praxis (FOP)** —  
+a commitment to remain with the *before*:
 
-- **[Post–Stability Technical Corpus](/corpus/post-stability/)**  
-  Canonical verification backbone for the Synkyrian theoretical spine.
+before form,  
+before decision,  
+before interpretation,  
+and sometimes before even the possibility of articulation itself.
 
-- **[Zenodo Releases](/library/zenodo/)**  
-  Citable, versioned academic records.
+Across ontology, mathematics, phenomenology, and practice,
+the same structural constraint appears at multiple scales:
+what cannot be held without rupture must not be forced into form.
 
----
-
-## Theoretical Core
-
-The **theoretical backbone of Synkyria** reorganises classical mathematical tools  
-(first-passage processes, spectral gaps, variational principles, entropy production)
-around **finite-horizon holding and viability**.
-
-Rather than equilibrium, the focus is on:
-- load,
-- hazard,
-- latency,
-- morphogenetic survival of form.
-
-→ Explore the theory in **[Theory](/theory/)**
+Synkyria investigates this constraint rigorously and consistently,
+without collapsing one level of description into another.
 
 ---
 
-## Philosophy, Auras & Pedagogy
+## What You Will Find Here
 
-Synkyria is not only mathematical.
-It is also a **phenomenological, therapeutic, and pedagogical project**.
+The project is articulated through several autonomous but coordinated corpora:
 
-This layer develops concepts such as:
-- pre-contact viability,
-- refusal as structural condition,
-- suspension and non-resolution,
-- identity as *survived form*.
+### **Mathematical & Physical Foundations**
+Formal work on finite-horizon viability, admissibility, hazard,
+and irreversible collapse in constrained systems.
 
-Key texts include:
-- **The Aura series**
-- **The Self Before Contact**
-- **The Tropic Manifesto**
-
-→ Read the texts in **[Public Texts, Auras & External Works](/articles/)**  
-→ See the stance in the **[Manifesto](/manifesto/)**  
-→ Navigate concepts via the **[Tropic Lexicon](/lexicon)**
+→ See **[Theory](/theory/)**  
+→ Browse the **[Technical Corpus](/corpus/post-stability/)**
 
 ---
 
-## Technical & Applied Work
+### **Auras (Ontological Articulations)**
+Rhythmic theoretical manifestations that hold conceptual emergence
+without closure.  
+They are not papers, methods, or essays, but field-level articulations.
 
-Synkyrian concepts are also articulated through **operational companions**
-that translate finite-horizon stability theory into observable,
-experimental form.
+→ Read the **[Aura Series](/articles/)**
 
-These applications explore:
-- finite-horizon viability and holding,
-- structural early-warning signals,
-- protection of human and ecological capacity under load.
+---
 
-They function as research instruments supporting and extending
-the theoretical core.
+### **Structural Phenomenology of Viability (SFV)**
+A phenomenological series that makes viability constraints intelligible
+at the human scale: silence, hesitation, ambiguity, refusal,
+and restraint as lawful operations rather than deficits.
 
-→ See **[Software & Applications](/applications/)**
+→ Explore **[SFV Texts](/articles/)**
+
+---
+
+### **Technical & Applied Work**
+Companions, diagnostics, and experimental systems that embed
+Synkyrian principles into operational contexts.
+
+→ See **[Applications](/applications/)**
+
+---
+
+## How to Enter
+
+Synkyria is not meant to be read linearly or exhausted.
+
+If you are new, begin here:
+
+- **[How to Read Synkyria](/how-to-read/)** — orientation paths
+- **[Library](/library/)** — complete catalogue
+- **[Architecture Map](/architecture/)** — how the pieces relate
+
+---
+
+## What Synkyria Is — and Is Not
+
+Synkyria does not offer techniques, prescriptions, or optimisation strategies.  
+It does not promise resolution, convergence, or growth.
+
+It asks a prior question:
+
+> **Can a field remain viable without being forced into premature form?**
+
+Where the answer is uncertain,
+holding becomes the most faithful operation.
+
+---
+
+© Panagiotis Kalomoirakis · Synkyria
 
