@@ -2,6 +2,12 @@
 title: Public Texts, Auras & External Works
 ---
 
+> **Note:**  
+> The Structural Phenomenology of Viability (SFV) constitutes a separate canonical series
+> and is indexed independently at **[SFV](/sfv/)**.
+
+
+
 This page indexes the **non-corpus texts** of the Synkyria programme:
 Auras, public-facing writings, and external publications that translate
 or emerge from the theory without constituting its formal mathematical backbone.
@@ -41,12 +47,6 @@ All Auras are **citable, frozen, and archived on Zenodo**.
 ---
 
 ## Translation Papers & Public Theory
-
-- **The Self Before Contact**  
-  A translation paper articulating pre-contact viability, refusal,
-  and identity as *survived form*, explicitly anchored in the
-  Post–Stability Technical Corpus.  
-  → Read on site: <https://synkyria.github.io/papers/self-before-contact/>
 
 - **Kalomoirakis, P. (2025).**  
   *Tropic AI: Rhythmic Integrity & Echo Ethics.*  
