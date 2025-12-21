@@ -127,3 +127,15 @@
 .site-header .site-nav a:hover {
   text-decoration: underline;
 }
+.site-title-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-tagline {
+  font-size: 0.85rem;
+  color: #666;
+  letter-spacing: 0.04em;
+  margin-top: -0.2rem;
+}
+

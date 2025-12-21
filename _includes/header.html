@@ -1,17 +1,23 @@
 <header class="site-header">
   <div class="wrapper">
 
-    <a class="site-title" href="{{ '/' | relative_url }}">
-      {{ site.title }}
-    </a>
+    <div class="site-title-group">
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        Synkyria
+      </a>
+      <span class="site-tagline">
+        Fractal Onto-Praxis
+      </span>
+    </div>
 
     <nav class="site-nav">
       <a href="{{ '/how-to-read/' | relative_url }}">How to Read</a>
-      &nbsp;&nbsp;&nbsp;
+      <a href="{{ '/theory/' | relative_url }}">Theory</a>
+      <a href="{{ '/articles/' | relative_url }}">Texts</a>
+      <a href="{{ '/applications/' | relative_url }}">Applications</a>
       <a href="{{ '/library/' | relative_url }}">Library</a>
-      &nbsp;&nbsp;&nbsp;
-      <a href="{{ '/about/' | relative_url }}">About</a>
     </nav>
 
   </div>
 </header>
+
