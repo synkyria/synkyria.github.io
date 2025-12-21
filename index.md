@@ -67,7 +67,7 @@ A phenomenological series that makes viability constraints intelligible
 at the human scale: silence, hesitation, ambiguity, refusal,
 and restraint as lawful operations rather than deficits.
 
-→ Explore **[SFV Texts](/articles/)**
+→ Explore **[Structural Phenomenology of Viability](/sfv/)**
 
 ---
 
