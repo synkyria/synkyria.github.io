@@ -7,7 +7,7 @@ title: The Synkyrian Companion as Holding System
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/The_Synkyrian_Companion_as_Holding_System.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Architecture note for Companion.

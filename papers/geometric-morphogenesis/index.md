@@ -7,7 +7,7 @@ title: Synkyrian Geometric Morphogenesis
 **Status:** Preprint (primary)
 
 ## PDF
-- [Open PDF](/assets/pdfs/Synkyrian_Geometric_Morphogenesis.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Core synthesis: P→L→F assimilation; geometric hazard landscapes; thresholds/windows.

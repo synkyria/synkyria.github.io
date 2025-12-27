@@ -64,4 +64,4 @@ By making this ethical core explicit, Synkyria positions itself not just as anot
 
 ## PDF
 
-- [Open the manifesto PDF](/assets/pdfs/Manifesto.pdf)
+- [Open the manifesto PDF](/access/)

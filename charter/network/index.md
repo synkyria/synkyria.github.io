@@ -7,7 +7,7 @@ title: Synkyrian Network Charter
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/Synkyrian_Network_Charter.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Public constitution layer grounded in diagnostics + theorems.

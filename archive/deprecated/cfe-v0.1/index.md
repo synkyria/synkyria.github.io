@@ -7,7 +7,7 @@ title: CFE Companion Hooks v0.1 (deprecated)
 **Status:** Deprecated
 
 ## PDF
-- [Open PDF](/assets/pdfs/Canonical_Field_Equation__CFE____Companion_Hooks__v0_1_.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Earlier CFE hooks; superseded by v0.2.

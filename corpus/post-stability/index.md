@@ -33,7 +33,7 @@ All translation papers (e.g. *The Self Before Contact*) cite this corpus as thei
 
 ## Canonical document
 
-- [Download the Post–Stability Technical Corpus (v3)](./Synkyria__Post__Stability_Technical_Corpus__v3.pdf)
+- [Download the Post–Stability Technical Corpus (v3)](/access/)
 
 ## External translation papers (non-canonical)
 

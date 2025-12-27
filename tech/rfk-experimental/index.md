@@ -7,7 +7,7 @@ title: RFK Overleaf Pack (experimental)
 **Status:** Experimental
 
 ## PDF
-- [Open PDF](/assets/pdfs/rfk_overleaf_pack.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Experimental pack (archived).

@@ -7,7 +7,7 @@ title: CFE Companion Pack v0.2
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/synkyrian_cfe_companion_pack_en_v0_2.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Tech pack: Companion hooks (v0.2).

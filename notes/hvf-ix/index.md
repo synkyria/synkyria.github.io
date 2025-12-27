@@ -7,7 +7,7 @@ title: HVF-IX: Information-Geometric Optimal Sensing
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/IX__Information_Geometric_Optimal_Sensing.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Information geometry for sensing under viability constraints.

@@ -7,7 +7,7 @@ title: HVF-VI: Thermodynamic–Stochastic Bridge (1D model)
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/VI__A_Thermodynamic__Stochastic_Bridge_in_a_One_Dimensional_Entropy_Model.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Bridge note for 1D entropy model.

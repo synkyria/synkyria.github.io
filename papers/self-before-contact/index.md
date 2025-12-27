@@ -23,5 +23,5 @@ phenomenology of contact.
 
 ## Document
 
-- [Download the paper (PDF)](./The_Self_Before_Contact.pdf)
+- [Download the paper (PDF)](/access/)
 

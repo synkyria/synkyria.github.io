@@ -7,7 +7,7 @@ title: Invariant-Preserving Morphogenetic Filtering
 **Status:** Preprint (primary)
 
 ## PDF
-- [Open PDF](/assets/pdfs/Invariant_Preserving_Morphogenetic_Filtering.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Companion to P3: refusal beyond binary deletion; invariant-preserving maturation (distributed gating).

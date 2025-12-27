@@ -7,7 +7,7 @@ title: Bridge 3: Network Composition (aux)
 **Status:** Alias (supporting)
 
 ## PDF
-- [Open PDF](/assets/pdfs/bridge3_network_composition.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Aux derivation for composition; archived as bridge.

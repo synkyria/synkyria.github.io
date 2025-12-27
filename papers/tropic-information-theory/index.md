@@ -7,7 +7,7 @@ title: Tropic Information Theory
 **Status:** Preprint (primary)
 
 ## PDF
-- [Open PDF](/assets/pdfs/Tropic_Information_Theory.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Core micro layer: information-as-load; morphogenetic profile; filtering theorem.

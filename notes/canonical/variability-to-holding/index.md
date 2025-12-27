@@ -7,7 +7,7 @@ title: From Variability to Holding (HE·KSP·MEPP)
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/From_Variability_to_Holding__Canonical_Synkyrian_Indices_and_a_Unified_View_of_HE___KSP___MEPP.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Background: canonical indices; unification of HE/KSP/MEPP threads.

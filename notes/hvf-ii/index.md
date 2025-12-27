@@ -7,7 +7,7 @@ title: Holding as a Viability Functional II
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/Holding_as_a_Viability_Functional_II.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 HVF-II (supporting).

@@ -7,7 +7,7 @@ title: Synkyrian Networked Fields
 **Status:** Preprint (primary)
 
 ## PDF
-- [Open PDF](/assets/pdfs/synkyrian_networked_fields.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Core network layer: multi-kernel fields; Cheeger spine; bottlenecks; network holding.

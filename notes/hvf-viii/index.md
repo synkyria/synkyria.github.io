@@ -7,7 +7,7 @@ title: HVF-VIII: Thermodynamic Duality and Viability
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/assets/pdfs/VIII_Thermodynamic_Duality_and_the_Viability.pdf)
+- [Open PDF](/access/)
 
 ## Role in the architecture
 Duality / thermodynamic structure (supporting).
