@@ -7,7 +7,7 @@ title: Synkyrian Training Companion v1 (Zenodo artifact)
 **Status:** Zenodo (primary)
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Demo artifact: minimal training companion.

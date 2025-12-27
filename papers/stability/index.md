@@ -7,7 +7,7 @@ title: Synkyrian Stability as an Architectural Framework
 **Status:** Zenodo (frozen)
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Canonical spine (finite-horizon viability; holding index H_rig; log-hazard; bridges to KSP/MEPP/network bottlenecks).

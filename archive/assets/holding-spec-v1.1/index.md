@@ -7,7 +7,7 @@ title: Holding Spec v1.1 Figures/Template
 **Status:** Alias (assets)
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Figures/template for S20 (archived).

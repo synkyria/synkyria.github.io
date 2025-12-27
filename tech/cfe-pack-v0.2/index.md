@@ -7,7 +7,7 @@ title: CFE Companion Pack v0.2
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Tech pack: Companion hooks (v0.2).

@@ -7,7 +7,7 @@ title: The Kernel Stability Principle (KSP)
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Background: kernel-level stability; decomposition and constraints.

@@ -7,7 +7,7 @@ title: From Variability to Holding (HE·KSP·MEPP)
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Background: canonical indices; unification of HE/KSP/MEPP threads.

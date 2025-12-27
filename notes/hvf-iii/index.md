@@ -7,7 +7,7 @@ title: Holding as a Viability Functional III
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 HVF-III: axiomatic representation / canonicity lemma.

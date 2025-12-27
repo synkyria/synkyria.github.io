@@ -7,7 +7,7 @@ title: Network Policies II (Dynamic flows)
 **Status:** Supporting
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Extension: dynamic policy flows; Lyapunov-style separation.

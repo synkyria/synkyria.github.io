@@ -7,7 +7,7 @@ title: CFE Companion Hooks v0.1 (deprecated)
 **Status:** Deprecated
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Earlier CFE hooks; superseded by v0.2.

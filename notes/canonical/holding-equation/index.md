@@ -7,7 +7,7 @@ title: The Holding Equation
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Background: Second-law-consistent gauge for open-system viability.

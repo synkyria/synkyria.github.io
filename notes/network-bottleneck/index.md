@@ -7,7 +7,7 @@ title: Network Holding and a Bottleneck Principle for Synkyrian Kernels
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Network bottleneck principle (supporting).

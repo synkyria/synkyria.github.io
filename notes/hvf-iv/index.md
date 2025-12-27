@@ -7,7 +7,7 @@ title: Holding as a Viability Functional IV
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 HVF-IV (supporting).

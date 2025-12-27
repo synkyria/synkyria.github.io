@@ -7,7 +7,7 @@ title: HVF-XII: Regular, Robust, and Fast Holding under Latency
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Latency-aware holding; robust/fast surrogates.

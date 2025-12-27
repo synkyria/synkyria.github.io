@@ -7,7 +7,7 @@ title: Holding Canonical Spec v1
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Tech contract for H (definitions, interfaces).

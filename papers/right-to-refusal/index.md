@@ -7,7 +7,7 @@ title: The Thermodynamic Right to Refusal
 **Status:** Preprint (primary)
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Bridge: Holding Equation + Tropic Info ⇒ Thermodynamic Tropic Filter (THF) and structural right-to-refusal.

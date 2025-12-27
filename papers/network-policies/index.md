@@ -7,7 +7,7 @@ title: Synkyrian Network Policies
 **Status:** Preprint (primary)
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Core policies: repair/rotation vs firewall; no-sacrifice; policy flows.

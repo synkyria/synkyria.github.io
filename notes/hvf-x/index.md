@@ -7,7 +7,7 @@ title: HVF-X: Variational Principle for Flow under Viability Constraints
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Variational flow on holding constraint surface.

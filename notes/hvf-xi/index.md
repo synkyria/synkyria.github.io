@@ -7,7 +7,7 @@ title: HVF-XI: Cheeger-type Bounds for Synkyrian Network Holding
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Cheeger bounds for network holding exponents.

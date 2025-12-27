@@ -7,7 +7,7 @@ title: Network Diagnosis
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Governance instruments: Dhaz/Lcol/SEI/Rsalv (diagnostics layer).

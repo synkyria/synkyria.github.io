@@ -7,7 +7,7 @@ title: Tropic Manifesto
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Public stance: holding before optimisation; right-to-refusal; non-extractive design; field-first governance.

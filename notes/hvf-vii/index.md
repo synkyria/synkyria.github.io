@@ -7,7 +7,7 @@ title: HVF-VII: Network Composition (KSP)
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Network composition + KSP coupling.

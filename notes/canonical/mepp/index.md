@@ -7,7 +7,7 @@ title: MEPP / ΜΕΡΡ Extension
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 Background: MEPP-consistent channels under holding constraints.

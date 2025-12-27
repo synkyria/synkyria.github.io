@@ -7,7 +7,7 @@ title: Holding as a Viability Functional (Open)
 **Status:** Primary
 
 ## PDF
-- [Open PDF](/access/)
+- [Request access](/access/)
 
 ## Role in the architecture
 HVF-Open: tails and survival; holding as functional.
