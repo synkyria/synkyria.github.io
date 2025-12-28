@@ -1,3 +1,9 @@
 
 # Block PDFs in public site repo
 *.pdf
+
+# Allow public SFV/RSN PDFs (everything else stays ignored)
+!assets/sfv/
+!assets/sfv/*.pdf
+!assets/rsn/
+!assets/rsn/*.pdf

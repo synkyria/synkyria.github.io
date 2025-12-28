@@ -98,7 +98,7 @@ Introduces the **pre-contact layer** as a structural condition rather than a psy
 Re-reads the body not as a container or technique, but as a **tuning interface for admissibility**.
 
 **Canonical PDF:**  
-[Download — The Self Before Contact](/access/)
+[Open PDF — The Self Before Contact](/assets/sfv/sfv-01-self-before-contact.pdf)
 
 ---
 
@@ -109,7 +109,7 @@ Translates finite-horizon viability into clinical and phenomenological discernme
 **without protocolisation**.
 
 **Canonical PDF:**  
-[Download — Finite-Horizon Discernment Before Contact](/access/)
+[Open PDF — Finite-Horizon Discernment Before Contact](/assets/sfv/sfv-02-finite-horizon-discernment.pdf)
 
 ---
 
@@ -121,7 +121,7 @@ Introduces somatic signatures of viability regimes as **phenomenological indicat
 > Note: “Protocol” here is not a therapeutic method; it names an *articulation of viability grammar*.
 
 **Canonical PDF:**  
-[Download — The Embodied Viability Protocol](/access/)
+[Open PDF — The Embodied Viability Protocol](/assets/sfv/sfv-03-embodied-viability-protocol.pdf)
 
 ---
 
@@ -131,7 +131,7 @@ Reframes ambiguity as lawful non-closure under finite horizons rather than epist
 Shows how premature closure accelerates collapse and forecloses morphogenetic possibility.
 
 **Canonical PDF:**  
-[Download — Ambiguity as Structural Law](/access/)
+[Open PDF — Ambiguity as Structural Law](/assets/sfv/sfv-04-ambiguity-as-structural-law.pdf)
 
 ---
 
