@@ -132,6 +132,7 @@ Shows how premature closure accelerates collapse and forecloses morphogenetic po
 
 **Canonical PDF:**  
 [Open PDF — Ambiguity as Structural Law](/assets/sfv/sfv-04-ambiguity-as-structural-law.pdf)
+
 ---
 
 ### 5. *Trauma and Holding Capacity*
