@@ -7,3 +7,7 @@
 !assets/sfv/*.pdf
 !assets/rsn/
 !assets/rsn/*.pdf
+
+# macOS
+.DS_Store
+**/.DS_Store
