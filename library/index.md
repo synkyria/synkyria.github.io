@@ -4,105 +4,91 @@ title: Library
 
 A reader-first library of the Synkyria corpus.
 
-> New reader?  
-> Start with **[How to Read Synkyria](/how-to-read/)**.
-
-## What this page is (and is not)
-
-This page is a **library**: it privileges *readability and orientation* over exhaustive technical listing.
-
-- **First**: the translational lines (**SFV** and **RSN**) — where the framework becomes legible without requiring formal machinery.
-- **Then**: the technical backbone — the formal spine that these translations are derived from.
-- **Finally**: a complete internal ledger (appendix) for canonical placement and IDs.
-
-If you are looking for the full ledger immediately, jump to: **[Appendix — Full Corpus Ledger](#appendix--full-corpus-ledger)**.
+> This public site does **not** host full technical PDFs.  
+> It hosts **reading pages** (orientation, abstracts, roles, indices).  
+> Full technical artifacts are available via **[Request access](/access/)**.
 
 ---
 
-## Start here (three reading paths)
+## What this library is
 
-### 1) Clinicians / therapists / field practitioners
-- **[SFV — Series overview](/sfv/)** (start here)
-- SFV-01 *The Self Before Contact*
-- SFV-03 *The Embodied Viability Protocol (Tropic Body)*
-- SFV-04 *Ambiguity as Structural Law*
+Synkyria is not a “set of papers”.  
+It is an **architecture** with a technical spine and two public translational lines.
 
-### 2) Mathematicians / formal readers
-- **[FOP — Fractal Onto-Praxis](/fractal-onto-praxis/)** (field-first architecture)
-- P0 *Synkyrian Stability as an Architectural Framework* (spine)
-- N01 *The Holding Equation* + N02 *Thermodynamic Right to Refusal*
-- N12 *Kernel Stability Principle* (KSP)
+- **SFV** (Structural Phenomenology of Viability): viability translated into lived field-signatures.
+- **RSN** (Reader–Stabilizer Notes): meta-notes that prevent predictable misreadings of SFV.
+- **Technical spine**: the formal constraints SFV/RSN are *derived from*.
 
-### 3) AI builders / companion design
-- K30 *CFE Companion Pack* (hooks / interface layer)
-- S20 *Holding Canonical Spec*
-- N40 *Network Diagnosis* (if working at system scale)
+If you want the full internal ledger (IDs, placement, governance), go to:
+**[Corpus Catalogue](/catalogue/)**.
 
 ---
 
-## Translational lines (Layer 2)
+## Start here (choose a path)
 
-### SFV — Structural Phenomenology of Viability
-SFV translates viability constraints into **lived field-signatures** (capacity, refusal, contact-cost, kairos) without introducing new formal machinery.
+### For therapists / clinicians / practitioners
+Start with **SFV**, then use **RSN** when readers “push back”.
 
-- **Series index:** **[/sfv/](/sfv/)**
-- Canonical texts: SFV-01, SFV-02, SFV-03, SFV-04 (see the SFV page for descriptions and access links).
+### For mathematicians / formal readers
+Start with **the technical spine overview**, then read SFV as a disciplined translation (not metaphor).
 
-### RSN — Reader-Stabilizer Notes
-RSN texts are **stabilising meta-articles** written to prevent predictable misreadings of SFV: “is this conservatism?”, “why not self-improvement?”, “what about external pressures?”, etc.
-
-- **Series index:** `/rsn/` *(to be added; requests are routed via /access/ for now)*
-- Example: RSN-01 *Change Without Coercion* (meta-clarification).
+### For AI builders / companion design
+Use SFV/RSN for “human-field integrity”, and the spine for constraints, indices, and hooks.
 
 ---
 
-## Technical backbone (Layer 0) — shown without full exposure
-The technical corpus is the **formal spine** (equations, indices, bounds, thresholds).  
-Public pages may reference it by **ID** and *role in the architecture*; access to full artifacts is managed via **/access/**.
+## SFV — Structural Phenomenology of Viability (Layer 2)
 
-If you only need a minimal anchor set, start with: P0, N01, N02, N12, N20.
+SFV translates finite-horizon viability into lived primitives
+(capacity, refusal, contact-cost, kairos, trauma-as-load) **without introducing new machinery**.
+
+| ID | Title | What it does | Status | Page |
+|---|---|---|---|---|
+| SFV-01 | The Self Before Contact | Why “pre-contact” is structural, not psychological | Public page / Controlled artifact | **[/sfv/#sfv-01](/sfv/#sfv-01)** |
+| SFV-02 | Finite-Horizon Discernment | Why “not changing” can be fidelity to viability | Public page / Controlled artifact | **[/sfv/#sfv-02](/sfv/#sfv-02)** |
+| SFV-03 | Embodied Viability Protocol | How capacity/room becomes a regulated field signature | Public page / Controlled artifact | **[/sfv/#sfv-03](/sfv/#sfv-03)** |
+| SFV-04 | Ambiguity as Structural Law | Why ambiguity is not a defect but a constraint regime | Public page / Controlled artifact | **[/sfv/#sfv-04](/sfv/#sfv-04)** |
+
+> Want the full SFV artifacts? **[Request access](/access/)**.
 
 ---
 
-## Appendix — Full Corpus Ledger
+## RSN — Reader–Stabilizer Notes (Layer 2)
 
-<details>
-<summary><strong>Show / hide full ledger (IDs, placement, and site nodes)</strong></summary>
+RSN are short meta-articles that stabilise how SFV is read:
+they answer predictable criticisms (“Is this conservatism?”, “Why not self-improvement?”,
+“What about external pressures?”) **without drifting into coercive advice**.
 
-| ID | Type | Status | Work | Access | Site |
-|---|---|---|---|---|---|
-| P0 | Paper | Zenodo (frozen) | [Synkyrian Stability as an Arch...](/papers/stability/) | [Request access](/access/) | `/papers/stability/` |
-| N01 | Paper | Zenodo (frozen) | [The Holding Equation (HE)](/papers/holding-equation/) | [Request access](/access/) | `/papers/holding-equation/` |
-| N02 | Paper | Zenodo (frozen) | [The Thermodynamic Right to Ref...](/papers/right-to-refusal/) | [Request access](/access/) | `/papers/right-to-refusal/` |
-| N03 | Note | Preprint | [Holding as a Viability Function...](/technical/holding-functional/) | [Request access](/access/) | `/technical/holding-functional/` |
-| N04 | Note | Preprint | [Holding as a Viability Function...](/technical/holding-functional-ii/) | [Request access](/access/) | `/technical/holding-functional-ii/` |
-| N05 | Note | Preprint | [Holding as a Viability Function...](/technical/holding-functional-iii/) | [Request access](/access/) | `/technical/holding-functional-iii/` |
-| N06 | Note | Preprint | [Holding as a Viability Function...](/technical/holding-functional-iv/) | [Request access](/access/) | `/technical/holding-functional-iv/` |
-| N07 | Note | Preprint | [Holding as a Viability Function...](/technical/holding-functional-v/) | [Request access](/access/) | `/technical/holding-functional-v/` |
-| N08 | Note | Preprint | [VI — A Thermodynamic–Stochastic...](/technical/vi-thermo-stochastic-bridge/) | [Request access](/access/) | `/technical/vi-thermo-stochastic-bridge/` |
-| N09 | Note | Preprint | [VIII — Thermodynamic Duality an...](/technical/viii-thermo-duality/) | [Request access](/access/) | `/technical/viii-thermo-duality/` |
-| N10 | Note | Preprint | [IX — Information-Geometric Opti...](/technical/ix-info-geo-sensing/) | [Request access](/access/) | `/technical/ix-info-geo-sensing/` |
-| N11 | Note | Preprint | [X — Variational Principle for F...](/technical/x-variational-flow/) | [Request access](/access/) | `/technical/x-variational-flow/` |
-| N12 | Paper | Preprint | [The Kernel Stability Principle](/papers/kernel-stability/) | [Request access](/access/) | `/papers/kernel-stability/` |
-| N13 | Note | Preprint | [XI — Cheeger-type Bounds for Sy...](/technical/xi-cheeger-bounds/) | [Request access](/access/) | `/technical/xi-cheeger-bounds/` |
-| N14 | Note | Preprint | [Network Holding and a Bottlenec...](/technical/network-bottleneck-principle/) | [Request access](/access/) | `/technical/network-bottleneck-principle/` |
-| N15 | Note | Preprint | [Holding VII — Network Compositi...](/technical/holding-vii-network-composition/) | [Request access](/access/) | `/technical/holding-vii-network-composition/` |
-| N16 | Note | Preprint | [Holding XII — Robust and Fast H...](/technical/holding-xii-robust-fast/) | [Request access](/access/) | `/technical/holding-xii-robust-fast/` |
-| N20 | Paper | Preprint | [Tropic Information Theory](/papers/tropic-info/) | [Request access](/access/) | `/papers/tropic-info/` |
-| N30 | Paper | Preprint | [Invariant-Preserving Morphogen...](/papers/invariant-filtering/) | [Request access](/access/) | `/papers/invariant-filtering/` |
-| N31 | Paper | Preprint | [Synkyrian Geometric Morphogenes...](/papers/geometric-morphogenesis/) | [Request access](/access/) | `/papers/geometric-morphogenesis/` |
-| N32 | Paper | Preprint | [Synkyrian Networked Fields](/papers/networked-fields/) | [Request access](/access/) | `/papers/networked-fields/` |
-| N33 | Paper | Preprint | [Synkyrian Network Policies](/papers/network-policies/) | [Request access](/access/) | `/papers/network-policies/` |
-| N34 | Paper | Preprint | [Synkyrian Network Policies II](/papers/network-policies-ii/) | [Request access](/access/) | `/papers/network-policies-ii/` |
-| N35 | Note | Preprint | [Bridge III — Network Composition](/technical/bridge3-network-composition/) | [Request access](/access/) | `/technical/bridge3-network-composition/` |
-| N40 | Note | Preprint | [Network Diagnosis](/technical/network-diagnosis/) | [Request access](/access/) | `/technical/network-diagnosis/` |
-| C1 | Charter | Preprint | [Synkyrian Network Charter](/charters/network-charter/) | [Request access](/access/) | `/charters/network-charter/` |
-| C2 | Charter | Preprint | [Synkyrian Charter](/charters/synkyrian-charter/) | [Request access](/access/) | `/charters/synkyrian-charter/` |
-| M0 | Manifesto | Preprint | [Manifesto](/manifesto/) | [Request access](/access/) | `/manifesto/` |
-| S20 | Spec | Preprint | [Holding Canonical Spec](/specs/holding-canonical-spec/) | [Request access](/access/) | `/specs/holding-canonical-spec/` |
-| S21 | Spec | Preprint | [Holding Canonical Spec v1.1 (Fi...](/specs/holding-canonical-spec-figures/) | [Request access](/access/) | `/specs/holding-canonical-spec-figures/` |
-| K30 | Pack | Preprint | [CFE Companion Pack (EN)](/packs/cfe-companion-pack/) | [Request access](/access/) | `/packs/cfe-companion-pack/` |
-| K31 | Pack | Preprint | [CFE Companion Hooks v0.1](/packs/cfe-companion-hooks/) | [Request access](/access/) | `/packs/cfe-companion-hooks/` |
-| A01 | Aura | Draft | [Aura — When Holding Consumes Ca...](/aura/holding-consumes-capacity/) | [Request access](/access/) | `/aura/holding-consumes-capacity/` |
+| ID | Title | What it stabilises | Status | Page |
+|---|---|---|---|---|
+| RSN-01 | Change Without Coercion | “Non-change” ≠ conservatism; change arrives as residue | Public page / Controlled artifact | **[/rsn/#rsn-01](/rsn/#rsn-01)** |
 
-</details>
+> RSN pages are meant to be readable by everyone; artifacts remain controlled via **/access/**.
+
+---
+
+## Technical spine (Layer 0) — minimal public index
+
+This is the formal backbone SFV/RSN are **derived from**.
+Public pages cite the spine by role + DOI (when frozen on Zenodo).
+
+| Node | Role in the architecture | Status |
+|---|---|---|
+| P0 — Synkyrian Stability | canonical finite-horizon viability spine | Zenodo (frozen) / controlled access |
+| HE — Holding Equation | second-law consistent viability gauge | Zenodo (frozen) / controlled access |
+| KSP — Kernel Stability Principle | kernel-level admissibility and bottlenecks | preprint / controlled access |
+| HVF series | deeper derivations / bounds / regimes | preprints / controlled access |
+
+For the full spine ledger (all Nxx items), go to **[Corpus Catalogue](/catalogue/)**.
+
+---
+
+## Where the “frozen” Zenodo works appear
+
+If a work is frozen on Zenodo, the public page will include:
+- citation,
+- DOI,
+- and a short “role in architecture” paragraph.
+
+The full corpus is **not** exposed as a file server.
+This library is a **navigation surface**, not an asset dump.
