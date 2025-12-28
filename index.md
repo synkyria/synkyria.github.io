@@ -1,8 +1,7 @@
 ---
-title: ""
+title: "Synkyria"
 ---
-
-# Synkyria  
+ 
 ### A Field Theory of Holding
 
 > *Form does not announce itself.  
@@ -40,34 +39,38 @@ without collapsing one level of description into another.
 
 ---
 
-## What You Will Find Here
+## Start Here
 
-The project is articulated through several autonomous but coordinated corpora:
+If you are new, begin with the reader-facing series:
 
-### **Mathematical & Physical Foundations**
-Formal work on finite-horizon viability, admissibility, hazard,
-and irreversible collapse in constrained systems.
+- **[SFV — Structural Phenomenology of Viability](/sfv/)**  
+  Human-scale intelligibility of viability constraints: silence, hesitation, ambiguity,
+  refusal, restraint — as lawful operations rather than deficits.
 
-→ See **[Theory](/theory/)**  
-→ Browse the **[Technical Corpus](/corpus/post-stability/)**
+- **[RSN — Reader–Stabilizer Notes](/rsn/)**  
+  Short, clarifying notes built on SFV to prevent predictable misreadings
+  (e.g. “non-change = conservatism”, “growth must be pursued”, “refusal = pathology”).
 
 ---
 
-### **Auras (Ontological Articulations)**
-Rhythmic theoretical manifestations that hold conceptual emergence
-without closure.  
-They are not papers, methods, or essays, but field-level articulations.
+## What You Will Find Here
+
+The project is articulated through autonomous but coordinated corpora:
+
+### **Auras (Field Articulations)**
+Rhythmic manifestations that inhabit conceptual emergence without closure.  
+Not papers, not methods, not prescriptions — but field-level articulations.
 
 → Read the **[Aura Series](/articles/)**
 
 ---
 
-### **Structural Phenomenology of Viability (SFV)**
-A phenomenological series that makes viability constraints intelligible
-at the human scale: silence, hesitation, ambiguity, refusal,
-and restraint as lawful operations rather than deficits.
+### **Mathematical & Physical Foundations (Reference Spine)**
+Formal work on finite-horizon viability, admissibility, hazard,
+and irreversible collapse in constrained systems.
 
-→ Explore **[Structural Phenomenology of Viability](/sfv/)**
+→ See **[Theory](/theory/)**  
+→ Browse the **[Technical Corpus](/corpus/post-stability/)**
 
 ---
 
@@ -79,14 +82,19 @@ Synkyrian principles into operational contexts.
 
 ---
 
+## Access Policy
+
+- **Public canonical PDFs:** SFV and RSN  
+- **Foundations:** descriptions and references are public; full technical artifacts may be restricted or shared selectively.
+
+---
+
 ## How to Enter
 
 Synkyria is not meant to be read linearly or exhausted.
 
-If you are new, begin here:
-
-- **[How to Read Synkyria](/how-to-read/)** — orientation paths
-- **[Library](/library/)** — complete catalogue
+- **[How to Read Synkyria](/how-to-read/)** — orientation paths  
+- **[Library](/library/)** — catalogue  
 - **[Architecture Map](/architecture/)** — how the pieces relate
 
 ---
@@ -106,4 +114,3 @@ holding becomes the most faithful operation.
 ---
 
 © Panagiotis Kalomoirakis · Synkyria
-
