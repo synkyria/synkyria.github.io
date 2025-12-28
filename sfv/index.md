@@ -132,6 +132,28 @@ Shows how premature closure accelerates collapse and forecloses morphogenetic po
 
 **Canonical PDF:**  
 [Open PDF — Ambiguity as Structural Law](/assets/sfv/sfv-04-ambiguity-as-structural-law.pdf)
+---
+
+### 5. *Trauma and Holding Capacity*
+
+Reads trauma as a regime of compromised holding capacity under finite horizons:
+the field spends its capacity just to prevent collapse, so silence and refusal
+can be structural fidelity rather than deficit.
+
+**Canonical PDF:**  
+[Open PDF — Trauma and Holding Capacity](/assets/sfv/sfv-05-trauma-and-holding-capacity.pdf)
+
+---
+
+### 6. *Survived Form and the Paradox of Change*
+
+Reframes “change” as a viability-governed morphogenetic turn whose stable residue is
+**Survived Form**. Distinguishes survived crystallisation from forced closure, and treats
+kairos as a field condition rather than a personal achievement.
+
+**Canonical PDF:**  
+[Open PDF — Survived Form and the Paradox of Change](/assets/sfv/sfv-06-survived-form-and-paradox-of-change.pdf)
+
 
 ---
 
