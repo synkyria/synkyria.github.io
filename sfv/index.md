@@ -158,6 +158,18 @@ kairos as a field condition rather than a personal achievement.
 
 ---
 
+### 7. *Cohabited Horizons and Networked Admissibility*
+
+Extends SFV from individual readability into explicitly networked fields.
+Re-reads joy/play/creative transition as **distributional regime indicators**:
+how admissibility and slack are shared, concentrated, or extracted across cohabited horizons.
+Clarifies burden concentration (firewalling), sacrificial tails, and rotational repair
+**without turning networks into technique** and **without moralizing individuals**.
+
+**Canonical PDF:**  
+[Open PDF — Cohabited Horizons and Networked Admissibility](/assets/sfv/sfv-07-cohabited-horizons-and-networked-admissibility.pdf)
+
+---
 ## Relation to RSN (Reader–Stabilizer Notes)
 
 SFV is the translational line. **RSN** is the stabilising line:
