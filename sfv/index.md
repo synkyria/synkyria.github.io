@@ -83,7 +83,7 @@ SFV names these conditions **without pathologising them**.
 
 If you are new, read in this order:
 
-1) SFV-01 → 2) SFV-02 → 3) SFV-03 → 4) SFV-04
+1) SFV-01 → 2) SFV-02 → 3) SFV-03 → 4) SFV-04...
 
 If readers “push back” (e.g., “this is conservatism”, “why not self-improvement”), use **RSN**
 (Reader–Stabilizer Notes) as the stabilising companion line.
