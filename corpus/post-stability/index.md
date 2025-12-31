@@ -5,42 +5,56 @@ layout: page
 
 ## What this is
 
-This document is the **canonical technical backbone** of the Synkyria project.
+The Post–Stability Technical Corpus is the **canonical verification backbone** of Synkyria.
 
-It is **not a paper** and **not an interpretive text**.
+It is **not a reader text** and **not a paper**.
+It functions as:
 
-It serves as:
-- a verification ledger,
-- a routing map for proof-bearing documents,
-- and a reference spine for all viability-based claims made elsewhere in the project.
+- a **ledger** of proof-bearing documents (IDs, status, placement),
+- a **routing map** for what supports what (spine → micro → geometry → refusal → networks → policy),
+- a **reference spine** for every viability-based claim made elsewhere on this site.
 
-## Scope
+**PDFs are not hosted publicly.**  
+Access is provided *upon request* for review and citation verification.
 
-The corpus contains:
-- definitions and canonical objects (e.g. finite-horizon risk, collapse horizons),
-- structural relations between stability, holding, morphogenesis, and networks,
-- and explicit pointers to where proofs and technical constructions live.
+- **Request the Corpus PDF (v3):** [/access/](/access/)
 
-It does **not**:
-- introduce phenomenological interpretation,
-- propose clinical language,
-- or offer philosophical commentary.
+---
 
-## How it is used
+## How to read the technical architecture (in one pass)
 
-All translation papers (e.g. *The Self Before Contact*) cite this corpus as their
-**verification layer**, but do not reproduce its contents.
+If you want a clean route:
 
-## Canonical document
+1) **P0 — Stability (spine):** holding / hazard / finite-horizon viability  
+2) **P1 — Tropic Information Theory (micro-law):** information-as-load → filtering theorem  
+3) **P2 — Geometric Morphogenesis:** hazard landscapes; threshold windows; P→L→F assimilation  
+4) **P3 — Thermodynamic Right to Refusal:** refusal as structural consequence (HE + Tropic Info)  
+5) **P4 — Invariant-Preserving Filtering:** refusal beyond binary; keep invariants under load  
+6) **P5 — Networked Fields:** bottlenecks dominate; network viability constraints  
+7) **P6 — Network Policies:** viability firewall; no-sacrifice / governance layer  
+8) **C1 — Network Charter:** constitution layer grounded in diagnostics + theorems
 
-- [Download the Post–Stability Technical Corpus (v3)](/access/)
+---
+
+## Canonical record (referenced here)
+
+### Primary spine papers
+- **P0:** [/papers/stability/](/papers/stability/)
+- **P1:** [/papers/tropic-information-theory/](/papers/tropic-information-theory/)
+- **P2:** [/papers/geometric-morphogenesis/](/papers/geometric-morphogenesis/)
+- **P3:** [/papers/right-to-refusal/](/papers/right-to-refusal/)
+- **P4:** [/papers/invariant-morphogenetic-filtering/](/papers/invariant-morphogenetic-filtering/)
+- **P5:** [/papers/networked-fields/](/papers/networked-fields/)
+- **P6:** [/papers/network-policies/](/papers/network-policies/)
+
+### Constitution layer
+- **C1:** [/charter/network/](/charter/network/)
+
+---
 
 ## External translation papers (non-canonical)
 
-The following texts provide phenomenological or interpretive translations
-of the technical corpus. They do not introduce new definitions or proofs
-and are not part of the numbered canonical record.
+These texts translate the technical consequences into controlled phenomenological vocabulary.
+They do not add new definitions or proofs.
 
-- [The Self Before Contact: A Viability-Spine for Holding, Body, and Field](https://synkyria.github.io/papers/self-before-contact/)
-
-
+- **The Self Before Contact (translation paper):** [/papers/self-before-contact/](/papers/self-before-contact/)
