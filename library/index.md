@@ -33,9 +33,22 @@ RSN are short stabilising notes that prevent predictable misreadings of SFV
 
 ---
 
-## Technical spine (referenced, not hosted)
-Synkyria’s technical work provides the formal constraints SFV/RSN are derived from.
-This site provides role descriptions and citations; PDFs are not hosted publicly.
+## Technical spine (summaries public, PDFs upon request)
 
-For the internal ledger and placement protocols, see:
-- **Corpus / Meta-corpus:** **[/corpus/](/corpus/)** (if you have it)
+### Corpus entry point
+- **Post–Stability Technical Corpus:** [/corpus/post-stability/](/corpus/post-stability/)
+
+### Spine route (recommended order)
+1) **P0 — Stability:** [/papers/stability/](/papers/stability/)
+2) **P1 — Tropic Information Theory:** [/papers/tropic-information-theory/](/papers/tropic-information-theory/)
+3) **P2 — Geometric Morphogenesis:** [/papers/geometric-morphogenesis/](/papers/geometric-morphogenesis/)
+4) **P3 — Thermodynamic Right to Refusal:** [/papers/right-to-refusal/](/papers/right-to-refusal/)
+5) **P4 — Invariant-Preserving Filtering:** [/papers/invariant-morphogenetic-filtering/](/papers/invariant-morphogenetic-filtering/)
+6) **P5 — Networked Fields:** [/papers/networked-fields/](/papers/networked-fields/)
+7) **P6 — Network Policies:** [/papers/network-policies/](/papers/network-policies/)
+8) **C1 — Network Charter:** [/charter/network/](/charter/network/)
+
+---
+
+## Access
+- **Request full technical PDFs:** [/access/](/access/)
